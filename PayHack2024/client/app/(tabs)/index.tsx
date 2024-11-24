@@ -17,6 +17,7 @@ import { SafeAreaProvider, SafeAreaView } from "react-native-safe-area-context";
 
 export default function HomeScreen() {
   const [text, onChangeText] = useState("");
+  const [repayment, onChangeRepayment] = useState("");
   const [selectedCategory, setSelectedCategory] = useState(null);
   const [open, setOpen] = useState(false);
   const [categories, setCategories] = useState([
@@ -100,6 +101,13 @@ export default function HomeScreen() {
               placeholderTextColor="#aaa"
               onChangeText={onChangeText}
               value={text}
+            />
+            <TextInput
+              style={styles.input}
+              placeholder="Enter repayment period (in month)..."
+              placeholderTextColor="#aaa"
+              onChangeText={onChangeRepayment}
+              value={repayment}
             />
           </View>
 

@@ -10,7 +10,7 @@ app = Flask(__name__)
 CORS(app)
 
 # Load the trained model
-model = joblib.load('C:\\Users\\Pu Jun Yu\\Documents\\PayHack\\PayHack2024\\client\\app\\pages\\api\\svm_chain_model.pkl')
+model = joblib.load('C:\\Users\\Pu Jun Yu\\Desktop\\PayHack\\PayHack2024\\client\\app\\pages\\api\\svm_chain_model.pkl')
 
 # Function to predict loan_int_rate
 @app.route('/predict', methods=['POST'])
