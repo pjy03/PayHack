@@ -1,0 +1,3001 @@
+CreditScore,AppliedLoanAmount,Purpose,ProposedInterestRate,ProposedLoanAmount,ProposedLoanTerm
+762,54000,Home Renovation,3.32,48000,72
+694,10000,Green Initiatives,6.01,8000,24
+775,37000,Community Projects,3.08,32000,24
+708,52000,Social Enterprise,4.5,45000,12
+782,17000,Utility Payments,2.59,15000,24
+848,52000,Working Capital,2.77,46000,36
+737,47000,Education Fees,4.43,40000,72
+741,15000,Agriculture Expenses,4.85,12000,48
+669,23000,Community Projects,6.83,20000,12
+670,94000,Business Expansion,5.89,84000,60
+788,99000,Business Expansion,3.53,93000,60
+768,76000,Education Fees,3.05,72000,72
+712,14000,Travel Costs,5.07,11000,48
+769,47000,Vehicle for Business Use,2.56,41000,72
+661,59000,Childcare Expenses,5.49,55000,48
+815,23000,Business Expansion,2.46,20000,48
+844,73000,Home Renovation,3.28,62000,48
+662,93000,Emergency Business Funds,5.49,79000,12
+753,53000,Inventory Purchase,2.99,48000,24
+845,54000,Healthcare Expenses,3.17,50000,60
+749,36000,Equipment Purchase,5.33,31000,12
+695,49000,Startup Capital,6.04,40000,24
+728,82000,Debt Consolidation,4.24,72000,60
+688,23000,Emergency Business Funds,6.76,21000,36
+806,77000,Inventory Purchase,3.54,63000,24
+648,63000,Wedding Expenses,8.6,62000,48
+847,53000,Marketing and Advertising,3.3,43000,12
+817,86000,Startup Capital,3.88,77000,24
+780,49000,Education Fees,3.26,42000,72
+718,34000,Equipment Purchase,4.87,27000,12
+676,63000,Social Enterprise,6.0,59000,12
+601,32000,Startup Capital,7.18,27000,12
+673,7000,Social Enterprise,6.66,6000,12
+648,65000,Marketing and Advertising,8.68,59000,24
+700,47000,Emergency Personal Funds,4.85,46000,48
+678,24000,Training and Development,6.6,20000,12
+833,76000,Home Renovation,2.82,69000,72
+639,24000,Training and Development,8.63,19000,12
+688,25000,Marketing and Advertising,5.8,23000,24
+637,87000,Utility Payments,7.69,83000,36
+713,52000,Working Capital,5.31,42000,12
+602,86000,Business Expansion,7.31,80000,60
+785,65000,Inventory Purchase,3.51,55000,12
+680,12000,Inventory Purchase,5.64,11000,36
+732,71000,Home Renovation,4.61,59000,48
+797,64000,Technology Upgrade,3.56,58000,12
+742,58000,Emergency Business Funds,4.31,50000,24
+697,81000,Debt Consolidation,6.42,68000,72
+728,66000,Business Expansion,5.21,59000,48
+755,11000,Home Renovation,3.65,9000,72
+756,98000,Debt Consolidation,2.54,78000,60
+772,89000,Healthcare Expenses,3.87,80000,60
+792,33000,Startup Capital,3.39,30000,36
+810,72000,Working Capital,3.65,65000,12
+792,60000,Equipment Purchase,3.21,53000,24
+662,86000,Emergency Personal Funds,6.09,69000,60
+790,28000,Home Renovation,3.68,24000,48
+800,52000,Emergency Business Funds,2.5,49000,24
+820,100000,Technology Upgrade,3.82,89000,36
+736,87000,Travel Costs,4.03,82000,72
+709,70000,Utility Payments,4.56,62000,36
+655,14000,Emergency Personal Funds,6.63,13000,48
+783,34000,Green Initiatives,3.04,32000,36
+690,92000,Utility Payments,5.85,73000,24
+620,64000,Education Fees,8.77,58000,48
+758,58000,Wedding Expenses,3.79,50000,60
+847,66000,Debt Consolidation,3.05,57000,72
+660,45000,Wedding Expenses,6.45,37000,48
+686,60000,Startup Capital,6.26,54000,12
+840,14000,Home Renovation,3.41,12000,48
+642,54000,Marketing and Advertising,7.1,45000,12
+779,64000,Utility Payments,3.73,52000,12
+601,40000,Debt Consolidation,7.41,37000,60
+776,83000,Social Enterprise,3.37,80000,12
+626,87000,Training and Development,7.63,79000,12
+806,100000,Wedding Expenses,3.61,91000,60
+630,14000,Healthcare Expenses,7.19,11000,72
+668,85000,Startup Capital,5.95,73000,24
+732,21000,Business Expansion,4.51,20000,60
+716,63000,Community Projects,4.63,52000,36
+678,85000,Marketing and Advertising,6.41,81000,24
+821,34000,Childcare Expenses,3.27,32000,72
+739,65000,Education Fees,4.26,62000,72
+667,51000,Wedding Expenses,6.95,49000,72
+718,36000,Agriculture Expenses,3.96,32000,48
+684,66000,Home Renovation,6.57,56000,72
+828,43000,Inventory Purchase,3.15,39000,24
+637,63000,Emergency Business Funds,7.8,57000,12
+793,69000,Startup Capital,2.92,63000,24
+832,47000,Wedding Expenses,3.64,40000,60
+747,32000,Social Enterprise,5.15,29000,36
+800,95000,Inventory Purchase,2.83,77000,24
+726,75000,Equipment Purchase,3.98,62000,12
+737,61000,Utility Payments,5.21,49000,36
+623,63000,Inventory Purchase,8.46,61000,24
+746,38000,Childcare Expenses,4.66,35000,72
+732,38000,Business Expansion,4.37,33000,48
+605,28000,Social Enterprise,7.76,22000,36
+635,42000,Startup Capital,6.99,35000,12
+766,65000,Technology Upgrade,3.0,52000,36
+819,22000,Training and Development,2.72,21000,36
+707,66000,Green Initiatives,5.4,65000,24
+728,24000,Social Enterprise,5.38,21000,24
+706,58000,Community Projects,4.46,48000,24
+631,74000,Equipment Purchase,7.63,65000,24
+663,13000,Healthcare Expenses,5.87,12000,72
+768,23000,Healthcare Expenses,3.09,20000,60
+639,100000,Agriculture Expenses,7.59,88000,48
+655,75000,Vehicle for Business Use,6.92,62000,48
+810,36000,Green Initiatives,2.7,34000,12
+774,95000,Utility Payments,2.55,93000,36
+627,83000,Emergency Personal Funds,8.78,81000,48
+673,28000,Wedding Expenses,5.57,22000,60
+747,67000,Wedding Expenses,5.02,59000,72
+706,98000,Childcare Expenses,4.21,79000,60
+774,89000,Training and Development,2.79,85000,24
+847,31000,Technology Upgrade,2.94,25000,24
+750,88000,Marketing and Advertising,3.74,74000,12
+637,83000,Startup Capital,8.41,66000,36
+604,87000,Utility Payments,7.39,73000,36
+621,26000,Education Fees,8.81,22000,48
+668,44000,Debt Consolidation,6.41,39000,60
+762,87000,Debt Consolidation,3.44,78000,72
+780,19000,Business Expansion,2.95,15000,48
+632,98000,Emergency Business Funds,8.67,88000,36
+751,62000,Healthcare Expenses,3.68,57000,72
+681,41000,Emergency Personal Funds,6.56,38000,48
+703,91000,Community Projects,5.08,88000,36
+756,56000,Startup Capital,2.54,45000,24
+608,22000,Utility Payments,7.02,21000,36
+641,100000,Emergency Business Funds,7.93,86000,24
+735,55000,Emergency Business Funds,5.0,47000,36
+786,85000,Working Capital,3.45,84000,12
+837,40000,Home Renovation,3.74,33000,48
+658,75000,Education Fees,5.82,62000,48
+846,52000,Travel Costs,3.04,47000,48
+726,26000,Agriculture Expenses,4.65,21000,72
+742,84000,Emergency Business Funds,4.88,68000,24
+618,14000,Emergency Personal Funds,8.87,13000,72
+616,16000,Wedding Expenses,7.63,15000,60
+662,7000,Wedding Expenses,5.51,5000,48
+714,23000,Childcare Expenses,4.59,19000,72
+724,87000,Emergency Personal Funds,4.02,84000,60
+661,81000,Equipment Purchase,5.61,74000,12
+738,81000,Utility Payments,5.41,69000,36
+739,81000,Green Initiatives,5.32,76000,36
+603,29000,Business Expansion,7.88,25000,48
+628,60000,Training and Development,7.25,48000,24
+624,62000,Emergency Business Funds,7.39,50000,24
+610,62000,Vehicle for Business Use,7.07,56000,48
+652,38000,Wedding Expenses,5.55,33000,48
+681,8000,Technology Upgrade,6.05,6000,24
+732,11000,Vehicle for Business Use,4.22,10000,60
+698,30000,Utility Payments,6.4,29000,36
+761,68000,Green Initiatives,2.46,66000,24
+826,96000,Marketing and Advertising,3.36,88000,12
+626,47000,Green Initiatives,8.76,46000,36
+695,6000,Home Renovation,6.92,5000,60
+655,30000,Agriculture Expenses,5.75,24000,60
+723,49000,Vehicle for Business Use,4.53,39000,48
+778,63000,Healthcare Expenses,3.15,51000,48
+813,12000,Utility Payments,2.65,9000,24
+643,100000,Healthcare Expenses,7.16,82000,60
+773,38000,Wedding Expenses,3.24,30000,60
+724,20000,Education Fees,4.21,17000,60
+665,78000,Business Expansion,6.8,65000,72
+762,65000,Equipment Purchase,3.68,54000,24
+675,46000,Technology Upgrade,6.85,41000,12
+794,26000,Emergency Personal Funds,2.54,22000,72
+826,77000,Healthcare Expenses,3.74,71000,60
+778,71000,Wedding Expenses,3.65,59000,60
+684,87000,Healthcare Expenses,6.94,75000,60
+707,74000,Utility Payments,4.62,61000,36
+795,19000,Wedding Expenses,3.81,16000,48
+756,33000,Healthcare Expenses,2.96,31000,48
+626,28000,Training and Development,8.25,22000,36
+788,56000,Home Renovation,2.49,46000,48
+612,97000,Business Expansion,8.57,77000,72
+714,60000,Home Renovation,5.26,48000,48
+745,95000,Training and Development,4.91,81000,24
+720,6000,Community Projects,4.01,5000,36
+820,79000,Education Fees,2.87,68000,60
+802,13000,Working Capital,3.81,11000,36
+707,64000,Working Capital,4.91,58000,12
+615,97000,Childcare Expenses,7.51,79000,72
+622,27000,Emergency Personal Funds,7.42,21000,72
+646,24000,Emergency Business Funds,7.3,19000,24
+769,38000,Social Enterprise,2.92,31000,36
+770,66000,Childcare Expenses,3.77,62000,60
+608,9000,Business Expansion,8.27,7000,60
+634,58000,Marketing and Advertising,8.81,47000,36
+626,100000,Technology Upgrade,7.38,91000,24
+619,98000,Childcare Expenses,8.47,83000,60
+679,28000,Healthcare Expenses,5.55,24000,48
+634,72000,Utility Payments,7.16,64000,12
+806,77000,Training and Development,3.6,73000,36
+690,40000,Marketing and Advertising,6.42,38000,24
+796,70000,Social Enterprise,3.85,62000,24
+829,32000,Technology Upgrade,2.65,29000,24
+838,26000,Business Expansion,3.89,20000,72
+744,79000,Utility Payments,5.3,70000,12
+724,36000,Education Fees,5.07,31000,72
+761,5000,Healthcare Expenses,2.81,4000,48
+629,38000,Business Expansion,8.62,34000,72
+773,95000,Inventory Purchase,3.43,77000,12
+823,79000,Healthcare Expenses,3.72,63000,72
+784,20000,Business Expansion,3.95,16000,72
+713,6000,Startup Capital,4.28,4000,36
+751,8000,Equipment Purchase,3.45,7000,12
+799,81000,Technology Upgrade,3.36,68000,36
+602,72000,Education Fees,7.79,71000,60
+674,85000,Emergency Personal Funds,6.75,76000,48
+674,46000,Green Initiatives,6.08,39000,36
+693,67000,Equipment Purchase,5.47,62000,12
+688,74000,Emergency Business Funds,6.89,73000,36
+645,100000,Travel Costs,6.96,98000,48
+685,99000,Education Fees,5.89,96000,72
+661,59000,Emergency Business Funds,6.88,56000,24
+724,85000,Healthcare Expenses,4.69,80000,48
+755,50000,Utility Payments,3.91,42000,12
+793,29000,Business Expansion,3.27,23000,60
+758,13000,Healthcare Expenses,3.83,11000,72
+769,8000,Travel Costs,2.9,6000,60
+737,22000,Childcare Expenses,5.12,20000,48
+679,95000,Utility Payments,6.23,94000,36
+627,88000,Education Fees,8.66,85000,48
+817,36000,Debt Consolidation,3.89,31000,72
+730,10000,Marketing and Advertising,4.86,9000,36
+758,20000,Technology Upgrade,3.48,17000,36
+655,82000,Technology Upgrade,6.69,68000,24
+621,30000,Agriculture Expenses,8.18,29000,72
+771,8000,Debt Consolidation,3.14,7000,60
+699,5000,Debt Consolidation,6.22,4000,60
+617,85000,Agriculture Expenses,7.95,68000,60
+636,27000,Education Fees,7.65,23000,48
+728,49000,Business Expansion,5.15,44000,48
+785,41000,Social Enterprise,2.81,38000,24
+780,30000,Education Fees,3.23,28000,72
+777,8000,Social Enterprise,3.29,6000,24
+696,73000,Debt Consolidation,5.51,66000,72
+751,99000,Working Capital,3.56,80000,36
+601,88000,Inventory Purchase,7.55,86000,12
+721,45000,Wedding Expenses,4.58,43000,48
+645,14000,Green Initiatives,8.06,11000,36
+793,75000,Emergency Personal Funds,3.09,73000,60
+822,24000,Agriculture Expenses,3.16,20000,60
+642,15000,Home Renovation,7.96,12000,72
+817,78000,Social Enterprise,3.58,73000,24
+723,7000,Inventory Purchase,5.41,6000,12
+677,17000,Training and Development,6.01,16000,12
+753,91000,Emergency Personal Funds,2.8,90000,60
+780,70000,Home Renovation,2.62,61000,72
+642,89000,Equipment Purchase,8.54,73000,12
+818,34000,Emergency Personal Funds,2.63,31000,72
+604,21000,Business Expansion,7.86,20000,60
+693,35000,Healthcare Expenses,6.22,30000,48
+839,52000,Emergency Personal Funds,3.93,51000,72
+614,90000,Utility Payments,8.17,83000,12
+752,31000,Working Capital,3.57,27000,24
+747,32000,Emergency Personal Funds,4.95,27000,60
+850,96000,Vehicle for Business Use,2.69,93000,60
+846,7000,Working Capital,2.69,6000,12
+685,71000,Emergency Personal Funds,5.93,62000,72
+697,73000,Education Fees,6.68,67000,48
+749,30000,Utility Payments,5.5,26000,24
+806,31000,Wedding Expenses,3.29,27000,48
+785,42000,Utility Payments,3.23,37000,24
+665,91000,Emergency Business Funds,5.83,73000,36
+685,74000,Childcare Expenses,6.19,65000,72
+846,91000,Vehicle for Business Use,3.84,87000,60
+822,86000,Green Initiatives,2.88,84000,36
+712,92000,Home Renovation,4.98,77000,72
+812,6000,Education Fees,2.64,5000,60
+683,55000,Education Fees,6.34,45000,48
+647,44000,Green Initiatives,7.0,43000,12
+804,99000,Business Expansion,3.36,93000,48
+611,81000,Training and Development,7.68,76000,24
+724,72000,Home Renovation,4.1,58000,60
+769,89000,Marketing and Advertising,3.34,78000,12
+767,100000,Education Fees,3.2,93000,72
+720,90000,Technology Upgrade,5.38,82000,12
+689,47000,Travel Costs,6.51,46000,60
+628,22000,Vehicle for Business Use,7.84,19000,60
+843,7000,Travel Costs,2.46,6000,72
+742,59000,Community Projects,4.14,52000,36
+732,23000,Wedding Expenses,5.44,20000,72
+604,66000,Marketing and Advertising,8.94,65000,24
+723,52000,Inventory Purchase,5.03,49000,36
+660,23000,Marketing and Advertising,6.42,19000,12
+781,74000,Inventory Purchase,2.67,61000,12
+672,36000,Home Renovation,6.92,33000,60
+640,6000,Green Initiatives,7.35,5000,24
+696,16000,Business Expansion,6.39,12000,60
+668,72000,Childcare Expenses,6.68,60000,60
+688,34000,Training and Development,5.53,33000,24
+764,99000,Community Projects,3.64,81000,24
+689,25000,Agriculture Expenses,5.81,22000,48
+641,38000,Green Initiatives,7.4,30000,36
+775,74000,Technology Upgrade,3.57,65000,12
+813,49000,Travel Costs,2.54,44000,48
+724,95000,Marketing and Advertising,5.21,81000,24
+726,55000,Training and Development,4.37,50000,36
+631,9000,Social Enterprise,8.81,8000,36
+829,56000,Travel Costs,2.97,45000,60
+693,12000,Wedding Expenses,5.76,11000,48
+600,70000,Home Renovation,7.2,62000,48
+721,44000,Startup Capital,5.24,37000,24
+731,16000,Community Projects,4.4,13000,12
+850,84000,Social Enterprise,2.66,68000,24
+717,47000,Agriculture Expenses,4.59,40000,60
+829,86000,Inventory Purchase,2.75,70000,24
+703,49000,Green Initiatives,3.99,41000,36
+741,66000,Equipment Purchase,4.88,53000,36
+664,13000,Marketing and Advertising,6.05,12000,12
+637,16000,Wedding Expenses,7.04,14000,60
+731,53000,Utility Payments,5.38,51000,12
+645,76000,Education Fees,7.24,72000,48
+708,87000,Wedding Expenses,3.98,81000,72
+604,9000,Home Renovation,7.36,8000,48
+818,70000,Green Initiatives,2.98,68000,36
+740,30000,Working Capital,4.72,29000,36
+790,68000,Travel Costs,2.86,66000,72
+774,24000,Childcare Expenses,3.3,23000,48
+747,43000,Emergency Personal Funds,4.31,37000,60
+730,18000,Community Projects,4.87,17000,36
+730,73000,Wedding Expenses,4.03,69000,48
+849,26000,Business Expansion,3.95,25000,60
+743,7000,Emergency Business Funds,4.97,6000,12
+637,82000,Emergency Personal Funds,7.07,81000,72
+742,74000,Travel Costs,4.33,68000,72
+750,17000,Technology Upgrade,2.9,16000,12
+800,62000,Agriculture Expenses,3.61,57000,60
+796,48000,Vehicle for Business Use,2.98,44000,48
+817,27000,Education Fees,2.92,25000,60
+643,58000,Emergency Business Funds,8.68,48000,24
+801,53000,Wedding Expenses,2.52,44000,60
+759,39000,Vehicle for Business Use,3.89,36000,60
+699,38000,Inventory Purchase,5.52,30000,12
+695,92000,Agriculture Expenses,6.23,76000,60
+725,34000,Training and Development,4.37,29000,12
+810,85000,Agriculture Expenses,2.76,73000,72
+681,63000,Green Initiatives,5.91,51000,36
+662,16000,Training and Development,6.1,13000,36
+744,54000,Healthcare Expenses,4.18,50000,48
+819,53000,Wedding Expenses,2.81,42000,72
+744,74000,Inventory Purchase,4.33,65000,24
+667,18000,Healthcare Expenses,6.41,16000,72
+629,30000,Business Expansion,7.6,29000,72
+666,13000,Childcare Expenses,6.56,11000,60
+684,60000,Green Initiatives,6.88,57000,12
+678,20000,Wedding Expenses,6.9,16000,48
+687,76000,Technology Upgrade,6.28,70000,12
+629,25000,Agriculture Expenses,6.96,24000,60
+649,83000,Inventory Purchase,7.97,82000,12
+761,20000,Education Fees,3.6,19000,60
+776,25000,Marketing and Advertising,2.94,24000,12
+656,99000,Training and Development,6.35,97000,36
+721,75000,Community Projects,5.04,64000,36
+646,76000,Marketing and Advertising,7.74,67000,12
+766,27000,Agriculture Expenses,2.76,22000,72
+788,84000,Training and Development,2.97,76000,36
+808,96000,Vehicle for Business Use,2.59,82000,72
+677,64000,Healthcare Expenses,6.93,60000,72
+816,37000,Community Projects,3.44,32000,24
+741,36000,Home Renovation,4.24,30000,60
+624,18000,Travel Costs,8.02,16000,60
+834,64000,Emergency Personal Funds,3.65,59000,60
+709,56000,Social Enterprise,4.93,45000,24
+783,75000,Education Fees,3.8,62000,48
+813,71000,Technology Upgrade,2.97,65000,24
+765,55000,Community Projects,3.06,51000,36
+616,49000,Utility Payments,7.4,39000,12
+718,35000,Vehicle for Business Use,5.05,33000,72
+806,81000,Utility Payments,2.47,65000,12
+704,90000,Community Projects,5.27,79000,24
+627,90000,Home Renovation,8.35,87000,72
+665,37000,Technology Upgrade,6.55,32000,12
+687,85000,Home Renovation,6.06,70000,72
+724,13000,Startup Capital,4.33,11000,36
+755,88000,Working Capital,3.75,80000,36
+630,91000,Technology Upgrade,7.77,82000,36
+835,13000,Vehicle for Business Use,2.79,10000,60
+723,58000,Childcare Expenses,4.01,52000,72
+664,75000,Emergency Business Funds,6.14,60000,12
+693,11000,Debt Consolidation,5.47,10000,48
+719,20000,Green Initiatives,5.07,16000,12
+711,84000,Travel Costs,4.2,69000,60
+784,30000,Startup Capital,3.21,26000,12
+613,41000,Equipment Purchase,7.02,37000,24
+631,12000,Utility Payments,8.35,11000,24
+817,77000,Healthcare Expenses,2.73,69000,48
+795,15000,Inventory Purchase,2.88,13000,36
+663,42000,Social Enterprise,5.83,40000,24
+821,80000,Wedding Expenses,2.77,76000,60
+739,66000,Emergency Personal Funds,4.2,64000,48
+842,81000,Training and Development,2.78,70000,24
+629,72000,Green Initiatives,8.66,64000,36
+715,48000,Equipment Purchase,4.8,43000,24
+757,92000,Social Enterprise,3.47,83000,12
+846,41000,Inventory Purchase,3.66,37000,36
+686,22000,Education Fees,5.6,20000,60
+738,18000,Healthcare Expenses,4.03,16000,48
+711,13000,Social Enterprise,5.36,12000,12
+770,88000,Startup Capital,3.67,73000,24
+685,64000,Community Projects,5.65,60000,12
+775,98000,Green Initiatives,3.56,83000,36
+710,20000,Training and Development,4.05,19000,24
+830,42000,Equipment Purchase,3.58,37000,36
+848,23000,Wedding Expenses,3.8,19000,48
+626,6000,Training and Development,8.52,5000,12
+611,46000,Green Initiatives,8.14,41000,12
+698,79000,Agriculture Expenses,6.53,69000,60
+724,94000,Working Capital,4.53,84000,36
+759,88000,Business Expansion,3.13,79000,72
+616,64000,Marketing and Advertising,8.17,57000,12
+621,83000,Technology Upgrade,7.56,66000,24
+624,59000,Agriculture Expenses,7.31,58000,60
+671,64000,Utility Payments,6.55,58000,36
+709,85000,Education Fees,5.38,84000,48
+740,25000,Wedding Expenses,4.43,20000,72
+779,30000,Education Fees,2.62,28000,60
+771,68000,Technology Upgrade,3.88,59000,12
+636,19000,Equipment Purchase,6.96,18000,36
+697,23000,Home Renovation,5.79,22000,72
+728,21000,Startup Capital,5.13,19000,12
+819,92000,Debt Consolidation,3.16,85000,72
+832,65000,Inventory Purchase,3.4,58000,36
+608,26000,Community Projects,7.81,23000,24
+738,77000,Wedding Expenses,4.67,73000,48
+784,68000,Healthcare Expenses,3.53,64000,72
+691,50000,Vehicle for Business Use,5.94,46000,60
+750,42000,Marketing and Advertising,2.46,34000,36
+846,76000,Healthcare Expenses,3.02,63000,72
+687,16000,Wedding Expenses,6.55,13000,60
+740,94000,Business Expansion,4.22,89000,72
+603,25000,Community Projects,8.52,22000,12
+818,24000,Emergency Personal Funds,2.97,19000,72
+795,40000,Working Capital,2.49,32000,36
+761,6000,Education Fees,3.91,5000,48
+790,66000,Wedding Expenses,3.57,64000,60
+752,29000,Technology Upgrade,3.78,26000,12
+603,18000,Wedding Expenses,7.67,16000,72
+806,7000,Travel Costs,3.16,6000,60
+714,73000,Home Renovation,4.8,63000,72
+646,34000,Healthcare Expenses,8.07,27000,60
+725,25000,Marketing and Advertising,4.4,21000,12
+722,41000,Vehicle for Business Use,5.18,40000,72
+833,74000,Wedding Expenses,3.86,64000,48
+636,67000,Healthcare Expenses,7.32,66000,72
+720,93000,Marketing and Advertising,4.94,79000,36
+750,83000,Community Projects,3.95,79000,12
+738,87000,Vehicle for Business Use,4.32,80000,60
+849,18000,Equipment Purchase,3.92,16000,36
+811,78000,Marketing and Advertising,3.63,73000,12
+796,75000,Agriculture Expenses,3.81,60000,48
+821,27000,Travel Costs,2.64,24000,60
+614,43000,Startup Capital,8.67,34000,24
+620,7000,Agriculture Expenses,8.39,6000,72
+820,44000,Healthcare Expenses,2.8,37000,48
+827,63000,Emergency Personal Funds,3.42,51000,60
+825,100000,Marketing and Advertising,2.51,98000,12
+653,43000,Working Capital,5.79,40000,12
+641,53000,Vehicle for Business Use,7.26,51000,48
+689,46000,Debt Consolidation,5.56,39000,60
+607,80000,Community Projects,6.97,64000,12
+832,96000,Green Initiatives,3.71,81000,12
+631,70000,Community Projects,7.62,61000,24
+603,15000,Green Initiatives,7.56,14000,24
+800,61000,Emergency Personal Funds,2.69,54000,72
+672,32000,Vehicle for Business Use,5.95,30000,60
+821,78000,Emergency Business Funds,2.79,69000,12
+647,14000,Inventory Purchase,7.13,13000,12
+720,69000,Emergency Personal Funds,4.89,68000,60
+800,25000,Green Initiatives,3.41,22000,24
+797,90000,Social Enterprise,3.65,86000,12
+691,92000,Utility Payments,6.58,81000,36
+646,53000,Startup Capital,8.45,47000,24
+763,13000,Childcare Expenses,3.73,10000,72
+822,50000,Green Initiatives,3.29,49000,12
+749,53000,Travel Costs,4.31,42000,60
+713,33000,Childcare Expenses,5.01,30000,60
+751,14000,Social Enterprise,3.22,12000,12
+691,60000,Social Enterprise,6.29,48000,36
+696,24000,Startup Capital,6.38,22000,24
+723,56000,Inventory Purchase,4.65,53000,36
+667,27000,Utility Payments,5.95,23000,24
+826,86000,Startup Capital,3.13,70000,36
+695,53000,Training and Development,5.84,48000,36
+617,22000,Social Enterprise,7.16,18000,24
+646,23000,Agriculture Expenses,8.93,21000,48
+743,50000,Vehicle for Business Use,4.85,44000,72
+809,57000,Healthcare Expenses,3.31,50000,72
+642,73000,Emergency Business Funds,8.36,64000,24
+695,74000,Community Projects,6.04,61000,24
+700,66000,Healthcare Expenses,5.15,53000,60
+745,90000,Wedding Expenses,4.23,78000,48
+615,91000,Equipment Purchase,7.16,81000,24
+613,21000,Marketing and Advertising,7.61,19000,24
+773,51000,Community Projects,3.33,50000,12
+723,54000,Business Expansion,4.65,49000,72
+774,5000,Travel Costs,2.75,4000,72
+687,7000,Community Projects,6.09,5000,12
+690,22000,Business Expansion,5.85,21000,48
+688,18000,Travel Costs,6.53,17000,60
+733,17000,Equipment Purchase,4.51,16000,36
+625,61000,Vehicle for Business Use,8.53,53000,72
+736,25000,Education Fees,4.21,22000,48
+846,14000,Social Enterprise,2.87,12000,12
+607,26000,Agriculture Expenses,7.39,24000,72
+766,17000,Inventory Purchase,3.69,15000,12
+685,61000,Home Renovation,6.17,52000,72
+678,37000,Emergency Personal Funds,6.56,34000,48
+630,30000,Green Initiatives,7.42,27000,36
+715,78000,Startup Capital,4.48,66000,12
+788,5000,Business Expansion,2.48,4000,48
+687,23000,Equipment Purchase,5.87,21000,24
+716,92000,Social Enterprise,5.21,82000,36
+850,62000,Agriculture Expenses,3.28,54000,48
+783,37000,Wedding Expenses,3.09,35000,60
+819,43000,Debt Consolidation,3.0,42000,60
+845,72000,Childcare Expenses,3.02,59000,60
+830,56000,Equipment Purchase,2.67,47000,12
+823,58000,Agriculture Expenses,3.63,50000,72
+658,74000,Startup Capital,6.0,73000,12
+698,14000,Social Enterprise,6.44,13000,12
+850,29000,Working Capital,3.6,26000,12
+748,60000,Startup Capital,4.52,57000,12
+837,69000,Equipment Purchase,3.93,68000,12
+676,71000,Home Renovation,6.37,57000,48
+698,83000,Training and Development,5.59,74000,24
+613,82000,Travel Costs,8.38,76000,72
+832,96000,Startup Capital,2.71,92000,24
+775,37000,Social Enterprise,3.31,33000,24
+721,33000,Education Fees,4.09,30000,72
+741,77000,Wedding Expenses,4.53,68000,72
+751,78000,Debt Consolidation,2.67,67000,60
+617,33000,Inventory Purchase,8.75,29000,24
+823,57000,Home Renovation,2.74,47000,72
+607,59000,Green Initiatives,8.68,54000,36
+797,74000,Emergency Personal Funds,3.73,65000,48
+833,57000,Social Enterprise,3.76,47000,24
+682,41000,Marketing and Advertising,5.99,36000,24
+678,59000,Emergency Personal Funds,6.66,56000,48
+834,30000,Agriculture Expenses,2.98,25000,48
+827,100000,Equipment Purchase,2.87,87000,36
+702,39000,Green Initiatives,5.01,35000,24
+616,12000,Healthcare Expenses,7.4,10000,48
+825,8000,Marketing and Advertising,2.57,6000,36
+614,18000,Green Initiatives,8.14,17000,36
+752,58000,Agriculture Expenses,3.49,57000,48
+619,83000,Healthcare Expenses,7.4,71000,60
+771,60000,Startup Capital,3.02,55000,12
+622,51000,Childcare Expenses,7.76,45000,72
+806,47000,Inventory Purchase,3.29,44000,24
+785,87000,Technology Upgrade,2.77,79000,24
+769,57000,Equipment Purchase,3.89,51000,24
+790,62000,Working Capital,2.81,52000,12
+772,82000,Training and Development,2.58,69000,24
+807,62000,Social Enterprise,3.57,57000,36
+806,34000,Emergency Personal Funds,2.85,27000,72
+647,43000,Debt Consolidation,7.94,39000,60
+621,77000,Working Capital,8.74,65000,24
+718,91000,Working Capital,4.61,80000,36
+648,42000,Working Capital,8.31,35000,36
+644,59000,Inventory Purchase,7.22,49000,24
+787,49000,Vehicle for Business Use,3.86,40000,72
+840,12000,Business Expansion,3.25,11000,48
+825,47000,Healthcare Expenses,3.03,42000,60
+611,85000,Social Enterprise,7.89,75000,24
+696,42000,Community Projects,5.87,35000,24
+759,70000,Technology Upgrade,2.69,65000,24
+793,17000,Emergency Business Funds,3.58,15000,24
+655,24000,Equipment Purchase,6.13,23000,12
+835,35000,Debt Consolidation,2.73,33000,72
+659,92000,Wedding Expenses,6.95,83000,60
+803,57000,Debt Consolidation,3.01,50000,72
+716,42000,Startup Capital,4.82,40000,12
+845,51000,Inventory Purchase,3.73,44000,12
+636,39000,Vehicle for Business Use,7.35,32000,60
+648,59000,Equipment Purchase,8.37,54000,12
+680,82000,Debt Consolidation,5.98,68000,72
+812,78000,Startup Capital,3.1,68000,36
+771,75000,Startup Capital,3.52,67000,24
+766,50000,Technology Upgrade,3.09,40000,12
+628,85000,Travel Costs,8.46,76000,60
+698,92000,Startup Capital,6.36,81000,24
+687,14000,Community Projects,6.34,12000,36
+692,20000,Green Initiatives,6.68,17000,24
+817,74000,Debt Consolidation,3.87,68000,72
+716,8000,Emergency Personal Funds,4.95,7000,60
+843,37000,Education Fees,2.94,33000,48
+630,84000,Utility Payments,7.55,77000,36
+656,72000,Community Projects,5.62,68000,36
+684,40000,Emergency Personal Funds,6.74,35000,72
+788,22000,Childcare Expenses,2.91,21000,60
+796,89000,Healthcare Expenses,3.17,76000,72
+717,55000,Agriculture Expenses,5.21,50000,48
+810,33000,Wedding Expenses,3.93,26000,60
+717,36000,Equipment Purchase,5.06,31000,36
+662,46000,Community Projects,6.91,45000,36
+689,16000,Home Renovation,5.74,15000,60
+758,37000,Working Capital,2.82,36000,24
+786,55000,Healthcare Expenses,2.64,52000,72
+771,29000,Marketing and Advertising,3.28,28000,24
+731,80000,Business Expansion,4.29,70000,72
+706,77000,Community Projects,5.04,68000,24
+624,72000,Debt Consolidation,7.56,68000,60
+646,95000,Debt Consolidation,8.14,84000,72
+844,80000,Equipment Purchase,3.85,78000,36
+606,86000,Technology Upgrade,7.18,82000,12
+835,58000,Emergency Personal Funds,3.41,53000,72
+698,69000,Emergency Business Funds,5.63,63000,12
+769,88000,Emergency Personal Funds,3.37,80000,48
+813,15000,Wedding Expenses,2.55,13000,48
+626,74000,Healthcare Expenses,8.26,73000,48
+791,85000,Inventory Purchase,3.01,80000,24
+637,55000,Emergency Business Funds,7.28,49000,36
+738,100000,Social Enterprise,4.21,93000,36
+762,16000,Social Enterprise,2.59,15000,12
+672,80000,Debt Consolidation,6.25,78000,72
+779,44000,Agriculture Expenses,2.65,41000,60
+735,36000,Startup Capital,4.15,34000,12
+755,45000,Healthcare Expenses,2.61,37000,60
+844,92000,Home Renovation,2.48,85000,72
+671,80000,Emergency Business Funds,5.71,65000,24
+635,64000,Healthcare Expenses,7.65,61000,72
+844,97000,Healthcare Expenses,3.84,88000,60
+612,41000,Social Enterprise,7.42,36000,24
+764,85000,Debt Consolidation,3.83,81000,72
+754,14000,Equipment Purchase,3.55,12000,12
+715,47000,Childcare Expenses,4.65,44000,72
+780,16000,Emergency Business Funds,3.83,14000,24
+641,87000,Agriculture Expenses,7.89,84000,60
+666,91000,Emergency Business Funds,5.61,74000,12
+707,80000,Travel Costs,4.75,77000,48
+691,23000,Childcare Expenses,5.51,18000,72
+677,24000,Startup Capital,6.84,21000,24
+678,76000,Childcare Expenses,6.75,62000,48
+676,54000,Emergency Business Funds,6.86,53000,12
+834,92000,Social Enterprise,2.73,90000,36
+821,56000,Marketing and Advertising,3.87,51000,12
+769,32000,Working Capital,2.76,29000,24
+753,80000,Agriculture Expenses,2.58,75000,48
+829,63000,Education Fees,2.61,53000,60
+783,8000,Community Projects,3.59,7000,36
+649,35000,Healthcare Expenses,8.11,30000,72
+754,95000,Technology Upgrade,3.93,91000,12
+829,9000,Training and Development,3.25,7000,24
+748,65000,Wedding Expenses,4.92,53000,48
+818,27000,Childcare Expenses,3.75,26000,60
+811,48000,Agriculture Expenses,2.96,39000,72
+748,73000,Business Expansion,4.88,60000,48
+613,15000,Social Enterprise,8.23,13000,36
+808,51000,Technology Upgrade,2.59,44000,36
+790,21000,Technology Upgrade,2.54,17000,36
+775,29000,Utility Payments,3.24,27000,24
+769,65000,Utility Payments,3.25,62000,12
+642,97000,Childcare Expenses,8.35,87000,48
+845,5000,Business Expansion,2.87,4000,60
+821,34000,Travel Costs,3.04,32000,72
+774,67000,Home Renovation,2.88,61000,72
+818,74000,Wedding Expenses,3.21,64000,60
+678,23000,Community Projects,6.95,18000,24
+800,91000,Marketing and Advertising,3.11,76000,36
+603,96000,Business Expansion,7.1,91000,72
+795,60000,Startup Capital,2.93,48000,36
+821,43000,Equipment Purchase,3.13,39000,12
+749,39000,Education Fees,5.17,35000,60
+645,17000,Education Fees,8.48,13000,60
+805,92000,Inventory Purchase,3.25,88000,24
+722,77000,Agriculture Expenses,4.46,64000,60
+826,85000,Utility Payments,3.11,82000,36
+647,70000,Equipment Purchase,7.46,66000,36
+803,10000,Community Projects,2.54,9000,36
+647,14000,Marketing and Advertising,7.62,11000,24
+757,16000,Utility Payments,3.05,14000,36
+642,47000,Home Renovation,8.32,41000,72
+629,41000,Training and Development,8.62,34000,36
+675,63000,Vehicle for Business Use,5.91,53000,60
+797,22000,Equipment Purchase,3.89,20000,36
+726,24000,Education Fees,4.55,23000,60
+622,39000,Technology Upgrade,7.6,34000,12
+772,56000,Training and Development,3.1,48000,12
+814,64000,Technology Upgrade,3.81,63000,24
+649,25000,Agriculture Expenses,8.02,23000,60
+649,96000,Wedding Expenses,7.01,87000,60
+788,58000,Marketing and Advertising,3.23,52000,24
+741,56000,Equipment Purchase,4.1,50000,24
+811,48000,Travel Costs,3.56,40000,60
+811,34000,Wedding Expenses,3.8,29000,72
+822,57000,Healthcare Expenses,3.13,47000,72
+644,20000,Social Enterprise,8.27,16000,24
+635,66000,Travel Costs,7.43,63000,60
+607,37000,Startup Capital,8.04,30000,24
+736,100000,Technology Upgrade,5.37,80000,12
+705,92000,Childcare Expenses,4.99,78000,72
+639,67000,Home Renovation,8.09,55000,72
+836,86000,Emergency Personal Funds,2.81,78000,48
+633,87000,Startup Capital,8.68,79000,24
+677,14000,Working Capital,6.23,11000,36
+683,36000,Emergency Personal Funds,6.03,31000,60
+706,53000,Childcare Expenses,4.19,45000,60
+736,37000,Agriculture Expenses,4.68,33000,48
+818,75000,Debt Consolidation,2.95,65000,60
+677,35000,Travel Costs,6.3,29000,72
+802,89000,Inventory Purchase,3.47,74000,24
+628,13000,Working Capital,8.78,11000,24
+763,28000,Utility Payments,3.86,25000,12
+822,88000,Business Expansion,3.95,82000,72
+621,80000,Social Enterprise,7.48,78000,36
+699,75000,Home Renovation,6.58,65000,48
+674,12000,Vehicle for Business Use,6.79,11000,60
+702,53000,Community Projects,5.2,49000,36
+705,18000,Healthcare Expenses,4.13,17000,72
+823,78000,Inventory Purchase,3.01,76000,12
+779,32000,Childcare Expenses,2.64,30000,48
+645,19000,Utility Payments,7.83,15000,24
+608,11000,Startup Capital,7.56,9000,36
+707,23000,Working Capital,4.85,18000,12
+661,93000,Marketing and Advertising,6.41,86000,36
+833,95000,Equipment Purchase,3.07,92000,36
+778,93000,Community Projects,2.98,90000,36
+849,27000,Home Renovation,2.62,26000,60
+621,88000,Inventory Purchase,8.01,80000,36
+732,5000,Agriculture Expenses,5.23,4000,60
+646,37000,Startup Capital,8.37,34000,36
+727,52000,Childcare Expenses,4.24,44000,48
+624,56000,Emergency Personal Funds,7.49,53000,48
+834,19000,Technology Upgrade,3.48,16000,36
+606,40000,Emergency Business Funds,7.32,35000,24
+820,21000,Travel Costs,2.76,19000,48
+755,58000,Marketing and Advertising,2.56,50000,12
+722,46000,Agriculture Expenses,4.34,36000,60
+654,7000,Startup Capital,5.94,5000,36
+678,67000,Agriculture Expenses,6.43,56000,48
+672,82000,Home Renovation,6.24,76000,60
+792,73000,Home Renovation,2.83,63000,48
+752,58000,Wedding Expenses,3.21,47000,48
+714,82000,Wedding Expenses,5.25,73000,72
+657,43000,Healthcare Expenses,6.11,41000,72
+604,5000,Social Enterprise,8.92,4000,24
+768,89000,Home Renovation,2.8,74000,48
+680,42000,Green Initiatives,6.68,38000,12
+608,7000,Agriculture Expenses,8.04,5000,48
+735,30000,Agriculture Expenses,4.14,25000,72
+621,97000,Green Initiatives,7.9,89000,12
+739,13000,Education Fees,4.92,10000,60
+666,68000,Marketing and Advertising,6.89,60000,36
+654,35000,Equipment Purchase,6.59,33000,12
+721,21000,Technology Upgrade,5.02,18000,12
+689,18000,Inventory Purchase,6.06,17000,12
+604,15000,Utility Payments,8.83,13000,36
+655,7000,Vehicle for Business Use,6.86,5000,60
+612,93000,Emergency Personal Funds,8.8,85000,48
+850,5000,Childcare Expenses,3.88,4000,48
+741,30000,Startup Capital,5.43,29000,24
+806,27000,Business Expansion,3.7,22000,72
+605,47000,Community Projects,7.81,45000,36
+756,44000,Travel Costs,2.69,39000,48
+708,57000,Wedding Expenses,4.26,47000,48
+669,54000,Emergency Business Funds,6.63,44000,36
+764,76000,Vehicle for Business Use,3.64,62000,48
+837,75000,Childcare Expenses,2.8,72000,48
+698,34000,Emergency Business Funds,6.07,32000,24
+756,91000,Working Capital,3.92,81000,12
+841,60000,Business Expansion,2.94,58000,72
+673,71000,Home Renovation,5.81,62000,48
+783,37000,Startup Capital,3.68,36000,12
+841,36000,Startup Capital,3.14,34000,24
+725,38000,Emergency Personal Funds,4.48,36000,60
+848,6000,Training and Development,3.72,5000,36
+841,43000,Equipment Purchase,3.29,42000,36
+836,57000,Education Fees,3.03,46000,72
+704,59000,Business Expansion,4.58,52000,60
+775,93000,Agriculture Expenses,3.23,76000,60
+718,33000,Vehicle for Business Use,5.19,27000,72
+734,14000,Startup Capital,4.2,11000,12
+788,96000,Working Capital,3.95,91000,36
+758,16000,Debt Consolidation,2.76,15000,72
+850,71000,Social Enterprise,3.16,60000,12
+774,28000,Vehicle for Business Use,3.23,27000,72
+803,50000,Training and Development,3.61,46000,12
+648,5000,Vehicle for Business Use,8.64,4000,72
+824,86000,Debt Consolidation,3.5,72000,72
+612,14000,Utility Payments,8.34,12000,12
+806,99000,Travel Costs,3.0,85000,48
+668,76000,Travel Costs,6.74,62000,48
+711,44000,Inventory Purchase,4.11,37000,12
+827,88000,Working Capital,3.74,78000,12
+660,86000,Healthcare Expenses,5.63,72000,48
+794,25000,Technology Upgrade,3.38,21000,36
+777,72000,Education Fees,3.34,67000,72
+798,96000,Inventory Purchase,3.84,90000,24
+688,69000,Childcare Expenses,5.99,58000,60
+652,63000,Home Renovation,5.63,62000,60
+748,54000,Green Initiatives,4.36,52000,12
+826,85000,Education Fees,3.33,80000,48
+842,19000,Wedding Expenses,3.69,16000,72
+752,39000,Vehicle for Business Use,3.92,32000,72
+739,82000,Green Initiatives,4.61,79000,12
+833,27000,Vehicle for Business Use,3.53,21000,72
+768,71000,Technology Upgrade,3.27,58000,36
+700,22000,Utility Payments,5.06,18000,24
+679,62000,Travel Costs,6.75,59000,60
+643,59000,Education Fees,8.44,53000,60
+663,51000,Wedding Expenses,5.97,50000,72
+742,47000,Equipment Purchase,5.19,44000,36
+757,45000,Education Fees,2.67,38000,72
+796,99000,Healthcare Expenses,3.68,97000,72
+705,36000,Utility Payments,5.16,31000,12
+737,46000,Training and Development,4.18,37000,12
+668,54000,Community Projects,5.8,50000,24
+847,74000,Utility Payments,3.84,70000,12
+839,80000,Wedding Expenses,3.06,72000,60
+687,48000,Vehicle for Business Use,5.51,38000,72
+840,68000,Equipment Purchase,3.49,57000,24
+825,37000,Agriculture Expenses,2.87,36000,72
+759,31000,Community Projects,3.19,25000,36
+805,98000,Home Renovation,2.65,92000,48
+714,65000,Travel Costs,5.26,60000,72
+686,67000,Working Capital,6.23,54000,36
+705,21000,Community Projects,5.04,20000,12
+629,12000,Education Fees,8.69,11000,72
+713,17000,Childcare Expenses,4.19,15000,72
+797,35000,Startup Capital,3.4,28000,36
+668,59000,Community Projects,5.88,48000,36
+640,97000,Marketing and Advertising,8.6,82000,36
+781,75000,Childcare Expenses,3.45,66000,60
+637,51000,Startup Capital,8.57,45000,24
+755,24000,Emergency Business Funds,3.86,21000,36
+735,31000,Wedding Expenses,4.38,24000,60
+677,16000,Agriculture Expenses,5.99,14000,48
+640,58000,Utility Payments,8.84,46000,24
+834,25000,Travel Costs,2.65,23000,48
+650,9000,Training and Development,6.93,8000,12
+786,95000,Vehicle for Business Use,3.8,93000,60
+808,79000,Debt Consolidation,3.05,78000,72
+627,7000,Childcare Expenses,8.22,5000,72
+639,27000,Wedding Expenses,7.74,24000,60
+606,58000,Home Renovation,7.64,51000,48
+813,93000,Emergency Business Funds,2.79,79000,36
+784,92000,Training and Development,3.32,84000,24
+767,13000,Business Expansion,3.07,11000,48
+703,60000,Social Enterprise,4.1,55000,24
+720,42000,Home Renovation,4.11,37000,48
+674,45000,Utility Payments,6.13,38000,24
+696,14000,Home Renovation,6.28,12000,48
+653,52000,Green Initiatives,6.58,46000,24
+681,72000,Emergency Business Funds,6.81,61000,12
+786,45000,Home Renovation,2.64,41000,48
+614,56000,Business Expansion,8.57,45000,48
+842,78000,Green Initiatives,3.13,71000,24
+664,48000,Training and Development,6.75,41000,12
+693,68000,Social Enterprise,6.65,65000,12
+691,90000,Green Initiatives,5.71,88000,24
+820,74000,Education Fees,3.55,63000,60
+772,11000,Technology Upgrade,2.46,10000,36
+714,70000,Education Fees,4.33,62000,60
+747,21000,Education Fees,5.44,19000,60
+840,83000,Technology Upgrade,3.84,67000,12
+835,46000,Healthcare Expenses,3.56,44000,60
+843,45000,Wedding Expenses,2.92,42000,72
+781,12000,Agriculture Expenses,3.07,11000,72
+802,54000,Home Renovation,3.82,49000,72
+769,35000,Technology Upgrade,3.73,29000,24
+639,16000,Travel Costs,8.5,14000,48
+765,30000,Equipment Purchase,3.7,27000,36
+630,8000,Debt Consolidation,7.21,7000,48
+783,39000,Debt Consolidation,3.41,37000,72
+658,19000,Home Renovation,5.46,17000,72
+727,17000,Home Renovation,5.17,16000,60
+804,66000,Marketing and Advertising,3.28,53000,36
+745,95000,Education Fees,5.2,88000,48
+638,32000,Travel Costs,8.63,28000,72
+707,11000,Inventory Purchase,4.52,9000,12
+691,86000,Education Fees,5.53,83000,60
+625,42000,Technology Upgrade,8.84,35000,36
+637,27000,Community Projects,8.27,22000,12
+750,26000,Home Renovation,3.8,25000,48
+764,18000,Childcare Expenses,3.77,15000,48
+791,21000,Healthcare Expenses,2.75,18000,48
+703,87000,Vehicle for Business Use,4.65,81000,72
+737,6000,Working Capital,4.06,5000,12
+715,72000,Vehicle for Business Use,4.6,67000,60
+721,77000,Social Enterprise,4.24,76000,36
+736,80000,Emergency Personal Funds,4.08,64000,48
+835,13000,Utility Payments,3.52,12000,24
+619,87000,Technology Upgrade,8.22,83000,24
+838,90000,Social Enterprise,3.64,77000,12
+764,41000,Marketing and Advertising,2.97,34000,36
+778,22000,Healthcare Expenses,3.82,17000,72
+767,29000,Social Enterprise,3.81,24000,24
+784,16000,Childcare Expenses,3.66,15000,60
+670,57000,Business Expansion,6.56,49000,60
+611,55000,Home Renovation,7.51,48000,60
+773,10000,Equipment Purchase,3.72,8000,12
+751,12000,Agriculture Expenses,2.56,11000,60
+847,79000,Social Enterprise,3.83,74000,12
+602,56000,Home Renovation,8.49,49000,60
+756,42000,Wedding Expenses,3.28,34000,48
+701,46000,Agriculture Expenses,5.33,44000,60
+691,49000,Equipment Purchase,5.66,47000,12
+808,44000,Travel Costs,2.64,39000,48
+605,30000,Green Initiatives,7.39,26000,24
+738,72000,Emergency Business Funds,4.98,70000,24
+714,93000,Green Initiatives,4.59,87000,36
+676,35000,Technology Upgrade,6.5,29000,24
+661,66000,Wedding Expenses,6.62,62000,72
+746,79000,Debt Consolidation,5.24,66000,48
+685,55000,Childcare Expenses,5.96,50000,72
+822,67000,Vehicle for Business Use,3.43,62000,72
+715,21000,Education Fees,4.41,17000,48
+688,14000,Technology Upgrade,6.16,13000,36
+745,71000,Emergency Personal Funds,5.21,59000,48
+630,46000,Debt Consolidation,7.55,43000,60
+835,9000,Training and Development,2.72,7000,24
+770,41000,Technology Upgrade,2.83,36000,12
+694,26000,Business Expansion,5.86,21000,48
+710,72000,Education Fees,4.42,58000,48
+700,73000,Education Fees,5.14,65000,60
+683,92000,Vehicle for Business Use,6.81,87000,72
+770,92000,Community Projects,2.95,87000,12
+605,47000,Social Enterprise,8.19,46000,24
+694,54000,Agriculture Expenses,5.77,43000,48
+684,58000,Utility Payments,5.97,56000,12
+841,85000,Vehicle for Business Use,3.33,81000,72
+754,23000,Childcare Expenses,3.31,18000,60
+807,77000,Inventory Purchase,2.85,76000,12
+721,97000,Social Enterprise,5.25,95000,12
+662,42000,Wedding Expenses,5.7,33000,60
+815,7000,Marketing and Advertising,3.66,6000,36
+793,23000,Technology Upgrade,3.06,19000,12
+633,64000,Utility Payments,7.22,51000,12
+643,93000,Technology Upgrade,8.41,84000,24
+656,65000,Business Expansion,5.69,53000,48
+768,100000,Travel Costs,2.76,85000,48
+776,84000,Wedding Expenses,3.46,82000,48
+715,94000,Vehicle for Business Use,4.76,89000,60
+734,95000,Debt Consolidation,4.45,87000,72
+633,85000,Utility Payments,7.6,76000,12
+723,46000,Emergency Personal Funds,4.36,41000,60
+824,32000,Business Expansion,3.8,26000,60
+699,17000,Green Initiatives,6.53,13000,12
+723,60000,Equipment Purchase,5.08,49000,12
+836,94000,Emergency Personal Funds,3.37,81000,72
+704,11000,Emergency Personal Funds,4.7,10000,60
+725,28000,Vehicle for Business Use,4.63,26000,60
+601,27000,Green Initiatives,8.81,26000,12
+673,21000,Startup Capital,5.69,17000,36
+688,48000,Home Renovation,5.66,41000,72
+611,49000,Business Expansion,7.99,46000,72
+621,41000,Emergency Personal Funds,8.37,37000,60
+698,31000,Community Projects,6.83,29000,24
+683,40000,Equipment Purchase,6.4,36000,24
+690,88000,Working Capital,6.24,73000,24
+663,64000,Childcare Expenses,5.57,57000,48
+728,58000,Startup Capital,5.12,55000,36
+762,77000,Emergency Personal Funds,3.77,76000,60
+662,94000,Travel Costs,5.72,85000,60
+775,42000,Inventory Purchase,3.16,35000,12
+837,70000,Marketing and Advertising,2.76,58000,12
+741,57000,Debt Consolidation,4.35,55000,48
+661,96000,Training and Development,6.11,82000,24
+653,72000,Inventory Purchase,6.02,60000,12
+721,93000,Startup Capital,4.93,85000,24
+811,15000,Home Renovation,3.73,12000,48
+837,75000,Vehicle for Business Use,3.94,74000,48
+733,89000,Agriculture Expenses,5.4,82000,72
+724,75000,Emergency Business Funds,4.29,63000,24
+602,13000,Inventory Purchase,7.26,11000,36
+790,57000,Education Fees,2.78,49000,48
+628,77000,Emergency Personal Funds,8.95,71000,48
+762,36000,Vehicle for Business Use,3.93,33000,48
+812,30000,Inventory Purchase,3.02,25000,24
+716,9000,Business Expansion,4.32,8000,72
+610,74000,Business Expansion,8.81,68000,60
+756,17000,Emergency Business Funds,3.5,16000,36
+647,17000,Debt Consolidation,8.32,13000,72
+651,98000,Education Fees,5.98,83000,48
+620,63000,Training and Development,8.87,53000,12
+690,25000,Vehicle for Business Use,6.53,22000,60
+627,60000,Wedding Expenses,8.62,50000,60
+834,40000,Emergency Personal Funds,3.29,36000,60
+835,98000,Inventory Purchase,2.68,80000,36
+785,63000,Marketing and Advertising,3.08,59000,24
+742,86000,Social Enterprise,5.08,80000,24
+790,53000,Wedding Expenses,3.38,43000,60
+849,12000,Marketing and Advertising,3.15,10000,24
+708,83000,Equipment Purchase,5.22,81000,24
+695,15000,Childcare Expenses,6.11,13000,72
+655,25000,Wedding Expenses,6.86,21000,48
+841,96000,Inventory Purchase,3.62,87000,24
+833,47000,Emergency Business Funds,3.64,41000,12
+657,26000,Wedding Expenses,6.76,25000,48
+707,23000,Agriculture Expenses,4.76,18000,60
+639,75000,Emergency Personal Funds,7.51,72000,60
+668,95000,Equipment Purchase,5.79,78000,36
+742,22000,Healthcare Expenses,4.14,21000,72
+844,49000,Equipment Purchase,3.03,42000,36
+722,17000,Social Enterprise,4.92,16000,36
+714,9000,Utility Payments,4.22,7000,36
+685,46000,Training and Development,5.6,44000,12
+781,97000,Inventory Purchase,2.71,78000,24
+623,59000,Inventory Purchase,7.55,50000,36
+633,8000,Travel Costs,8.12,7000,72
+731,6000,Childcare Expenses,4.76,5000,60
+750,90000,Training and Development,3.41,74000,12
+650,99000,Utility Payments,5.74,97000,36
+643,68000,Home Renovation,7.61,65000,60
+844,85000,Community Projects,3.8,74000,36
+610,83000,Inventory Purchase,8.76,74000,36
+716,35000,Debt Consolidation,4.58,32000,60
+714,23000,Education Fees,4.92,21000,48
+677,35000,Equipment Purchase,6.41,33000,36
+785,44000,Travel Costs,3.78,41000,48
+702,7000,Working Capital,4.31,6000,12
+680,13000,Childcare Expenses,6.16,11000,60
+600,74000,Working Capital,7.08,63000,36
+632,14000,Debt Consolidation,8.28,12000,72
+632,40000,Business Expansion,8.31,35000,60
+615,51000,Emergency Business Funds,7.04,50000,36
+690,75000,Travel Costs,6.17,72000,60
+836,26000,Vehicle for Business Use,3.34,23000,72
+807,51000,Education Fees,3.87,47000,60
+796,74000,Healthcare Expenses,2.47,73000,60
+697,81000,Vehicle for Business Use,6.48,76000,60
+758,46000,Wedding Expenses,3.15,45000,48
+823,89000,Working Capital,3.56,79000,12
+693,60000,Marketing and Advertising,6.26,52000,12
+711,54000,Debt Consolidation,4.1,46000,60
+678,74000,Travel Costs,6.73,63000,60
+757,73000,Emergency Personal Funds,2.51,62000,60
+609,78000,Business Expansion,8.64,63000,72
+850,58000,Social Enterprise,3.38,57000,12
+760,27000,Training and Development,3.03,21000,36
+846,27000,Social Enterprise,3.38,26000,24
+807,59000,Emergency Personal Funds,2.68,52000,60
+820,94000,Utility Payments,3.55,86000,12
+780,13000,Working Capital,2.72,10000,12
+808,44000,Agriculture Expenses,3.43,40000,60
+635,13000,Marketing and Advertising,8.61,12000,36
+799,86000,Healthcare Expenses,2.84,82000,48
+627,98000,Debt Consolidation,8.02,84000,48
+651,26000,Technology Upgrade,5.92,21000,12
+641,41000,Travel Costs,8.7,34000,60
+687,29000,Working Capital,5.97,27000,12
+823,70000,Emergency Business Funds,3.52,57000,36
+615,19000,Social Enterprise,7.54,17000,24
+788,75000,Agriculture Expenses,2.77,60000,48
+692,51000,Equipment Purchase,6.81,44000,36
+605,7000,Startup Capital,6.97,5000,24
+687,94000,Inventory Purchase,6.51,92000,24
+798,31000,Community Projects,3.5,29000,36
+823,36000,Social Enterprise,2.8,31000,24
+772,35000,Education Fees,3.05,34000,72
+814,70000,Emergency Business Funds,3.14,63000,36
+609,48000,Childcare Expenses,8.1,42000,48
+832,40000,Emergency Business Funds,3.2,39000,24
+744,39000,Home Renovation,4.91,34000,72
+672,88000,Childcare Expenses,6.79,74000,48
+764,72000,Debt Consolidation,2.8,60000,72
+795,33000,Startup Capital,3.12,32000,12
+793,38000,Education Fees,3.38,35000,72
+690,18000,Travel Costs,6.44,17000,72
+648,52000,Marketing and Advertising,7.8,44000,24
+788,37000,Utility Payments,2.61,34000,24
+600,99000,Marketing and Advertising,7.97,85000,24
+688,71000,Childcare Expenses,6.37,69000,48
+839,91000,Debt Consolidation,3.03,90000,72
+763,70000,Emergency Business Funds,2.66,62000,12
+786,59000,Working Capital,3.9,58000,36
+742,6000,Childcare Expenses,5.11,5000,72
+772,56000,Technology Upgrade,2.93,47000,12
+676,30000,Equipment Purchase,6.71,24000,12
+838,35000,Agriculture Expenses,3.76,29000,48
+656,44000,Debt Consolidation,6.21,42000,48
+605,64000,Working Capital,8.07,61000,36
+784,25000,Technology Upgrade,3.86,22000,36
+725,33000,Education Fees,4.11,28000,72
+819,59000,Training and Development,3.53,50000,12
+710,58000,Working Capital,4.92,54000,36
+834,64000,Startup Capital,2.95,63000,12
+650,50000,Working Capital,5.55,48000,12
+845,52000,Utility Payments,2.89,43000,36
+740,70000,Wedding Expenses,4.83,60000,60
+635,58000,Debt Consolidation,8.81,51000,60
+771,96000,Home Renovation,3.31,90000,60
+773,26000,Home Renovation,3.52,22000,48
+797,21000,Healthcare Expenses,2.7,16000,72
+635,52000,Emergency Personal Funds,7.04,47000,72
+675,80000,Technology Upgrade,5.69,74000,36
+819,32000,Childcare Expenses,3.43,29000,72
+846,10000,Healthcare Expenses,3.24,8000,48
+756,15000,Travel Costs,3.71,12000,48
+810,85000,Green Initiatives,3.48,83000,36
+766,66000,Business Expansion,3.58,65000,72
+704,53000,Agriculture Expenses,4.34,49000,60
+832,79000,Education Fees,2.51,65000,72
+843,81000,Working Capital,3.77,69000,24
+794,9000,Equipment Purchase,3.57,8000,12
+788,94000,Education Fees,3.02,90000,48
+821,59000,Agriculture Expenses,2.62,53000,72
+823,28000,Debt Consolidation,2.56,23000,48
+659,22000,Marketing and Advertising,6.45,21000,36
+820,98000,Business Expansion,3.16,96000,60
+662,87000,Social Enterprise,6.02,70000,24
+821,16000,Startup Capital,2.83,15000,24
+690,29000,Education Fees,5.48,27000,60
+607,20000,Home Renovation,7.29,16000,60
+735,59000,Agriculture Expenses,4.81,55000,48
+760,27000,Travel Costs,3.63,22000,48
+709,93000,Startup Capital,4.97,75000,24
+804,91000,Utility Payments,2.9,74000,24
+615,31000,Home Renovation,8.25,25000,48
+704,83000,Agriculture Expenses,5.0,75000,48
+844,16000,Marketing and Advertising,3.8,14000,12
+702,21000,Emergency Personal Funds,4.04,18000,72
+670,79000,Social Enterprise,6.85,78000,24
+772,63000,Healthcare Expenses,3.89,53000,72
+706,19000,Community Projects,4.18,18000,12
+694,20000,Equipment Purchase,6.62,18000,24
+778,45000,Equipment Purchase,3.58,43000,36
+830,94000,Home Renovation,3.85,90000,60
+776,74000,Education Fees,3.82,62000,60
+655,22000,Technology Upgrade,6.86,20000,24
+788,33000,Debt Consolidation,2.6,26000,72
+617,81000,Social Enterprise,7.4,73000,12
+792,89000,Community Projects,3.36,73000,36
+725,16000,Debt Consolidation,4.54,14000,72
+769,72000,Vehicle for Business Use,3.21,65000,48
+835,57000,Technology Upgrade,3.44,49000,12
+716,25000,Marketing and Advertising,5.16,22000,12
+786,73000,Home Renovation,2.76,70000,72
+631,12000,Marketing and Advertising,8.9,11000,24
+634,64000,Utility Payments,8.2,61000,12
+723,70000,Utility Payments,4.87,67000,36
+840,21000,Home Renovation,2.72,20000,72
+778,15000,Utility Payments,2.83,13000,36
+788,48000,Marketing and Advertising,3.4,39000,36
+700,97000,Childcare Expenses,5.3,79000,72
+850,17000,Emergency Personal Funds,3.61,14000,72
+617,24000,Home Renovation,8.06,22000,72
+730,84000,Childcare Expenses,4.02,83000,60
+670,92000,Working Capital,6.43,79000,24
+801,49000,Healthcare Expenses,3.25,48000,72
+841,5000,Startup Capital,3.18,4000,12
+610,63000,Technology Upgrade,7.48,56000,24
+806,51000,Working Capital,2.62,41000,12
+677,46000,Childcare Expenses,5.95,41000,72
+708,96000,Agriculture Expenses,5.26,94000,48
+726,37000,Marketing and Advertising,4.26,35000,24
+706,13000,Childcare Expenses,5.01,11000,72
+712,39000,Education Fees,5.44,36000,60
+767,36000,Working Capital,2.97,34000,36
+653,53000,Inventory Purchase,6.88,46000,12
+830,24000,Startup Capital,3.89,20000,36
+712,11000,Healthcare Expenses,4.75,10000,60
+706,77000,Travel Costs,5.18,71000,48
+705,50000,Emergency Business Funds,4.28,49000,36
+813,89000,Startup Capital,2.87,81000,36
+625,14000,Equipment Purchase,8.74,11000,24
+719,27000,Working Capital,4.9,23000,36
+706,22000,Training and Development,5.33,18000,36
+801,93000,Emergency Personal Funds,3.59,77000,72
+681,62000,Marketing and Advertising,5.61,54000,12
+677,87000,Technology Upgrade,6.39,75000,24
+824,52000,Social Enterprise,2.7,45000,36
+610,83000,Equipment Purchase,8.48,67000,36
+665,6000,Vehicle for Business Use,6.32,5000,60
+831,85000,Marketing and Advertising,3.58,75000,12
+682,29000,Debt Consolidation,5.86,25000,72
+637,75000,Marketing and Advertising,8.51,64000,12
+608,43000,Community Projects,7.63,38000,36
+821,59000,Vehicle for Business Use,3.56,52000,72
+836,79000,Social Enterprise,2.78,72000,36
+843,38000,Agriculture Expenses,3.5,35000,72
+747,37000,Training and Development,5.24,36000,12
+634,21000,Travel Costs,8.24,20000,48
+653,65000,Working Capital,6.57,64000,24
+827,65000,Utility Payments,3.74,59000,36
+640,39000,Working Capital,8.5,36000,12
+810,72000,Agriculture Expenses,2.78,67000,72
+680,29000,Agriculture Expenses,6.13,26000,72
+697,52000,Agriculture Expenses,6.78,46000,48
+688,63000,Equipment Purchase,6.87,55000,24
+684,12000,Inventory Purchase,5.68,10000,12
+797,84000,Travel Costs,2.57,76000,72
+686,12000,Vehicle for Business Use,6.19,11000,60
+683,21000,Debt Consolidation,6.45,18000,48
+768,86000,Inventory Purchase,3.78,77000,12
+689,82000,Green Initiatives,6.21,73000,36
+815,45000,Social Enterprise,3.2,41000,12
+723,60000,Community Projects,4.61,55000,24
+609,5000,Working Capital,7.69,4000,24
+678,74000,Marketing and Advertising,6.13,61000,12
+781,38000,Equipment Purchase,3.4,30000,12
+810,99000,Green Initiatives,3.62,97000,24
+645,31000,Education Fees,8.95,26000,60
+738,34000,Travel Costs,4.99,31000,48
+645,94000,Community Projects,8.33,84000,24
+632,16000,Childcare Expenses,8.11,13000,72
+832,39000,Debt Consolidation,2.66,36000,72
+803,20000,Debt Consolidation,3.15,16000,72
+654,96000,Technology Upgrade,5.87,93000,12
+671,45000,Social Enterprise,6.29,39000,24
+785,41000,Healthcare Expenses,2.99,38000,60
+827,12000,Travel Costs,3.78,10000,48
+691,64000,Working Capital,6.85,51000,24
+745,6000,Debt Consolidation,4.37,5000,60
+660,60000,Marketing and Advertising,5.63,55000,12
+822,72000,Utility Payments,3.46,63000,24
+631,26000,Emergency Business Funds,8.28,22000,12
+679,96000,Healthcare Expenses,5.61,91000,72
+629,61000,Vehicle for Business Use,7.09,58000,60
+749,74000,Utility Payments,5.0,60000,36
+813,76000,Working Capital,2.91,68000,36
+785,62000,Agriculture Expenses,3.1,50000,72
+656,59000,Emergency Personal Funds,5.77,57000,72
+815,65000,Agriculture Expenses,2.66,61000,72
+733,14000,Debt Consolidation,4.48,11000,72
+847,45000,Wedding Expenses,3.71,41000,72
+634,54000,Emergency Personal Funds,7.67,49000,60
+612,62000,Community Projects,8.31,56000,12
+726,19000,Working Capital,4.04,15000,24
+623,87000,Community Projects,6.99,82000,12
+797,48000,Wedding Expenses,3.71,45000,60
+606,61000,Inventory Purchase,8.93,56000,24
+686,47000,Travel Costs,6.58,38000,48
+636,71000,Marketing and Advertising,7.67,61000,12
+656,35000,Agriculture Expenses,6.56,30000,60
+735,19000,Marketing and Advertising,5.38,17000,24
+779,11000,Green Initiatives,3.26,8000,12
+703,13000,Working Capital,4.54,11000,24
+807,76000,Childcare Expenses,3.95,68000,60
+754,91000,Emergency Business Funds,2.52,73000,36
+739,7000,Training and Development,5.36,6000,24
+685,53000,Agriculture Expenses,6.23,52000,72
+671,51000,Community Projects,6.17,50000,24
+686,74000,Community Projects,5.91,70000,24
+741,100000,Debt Consolidation,4.77,85000,48
+667,8000,Inventory Purchase,5.9,7000,24
+840,60000,Travel Costs,3.72,51000,72
+607,66000,Wedding Expenses,7.05,57000,60
+659,49000,Education Fees,6.48,41000,60
+781,53000,Debt Consolidation,3.22,44000,60
+810,18000,Marketing and Advertising,2.58,15000,36
+700,63000,Home Renovation,5.13,52000,48
+829,81000,Equipment Purchase,3.49,78000,24
+701,34000,Emergency Personal Funds,5.08,30000,72
+724,37000,Utility Payments,4.64,30000,12
+673,44000,Utility Payments,5.52,38000,24
+811,28000,Technology Upgrade,3.29,26000,12
+774,9000,Startup Capital,3.71,8000,36
+733,33000,Travel Costs,5.32,28000,60
+782,93000,Childcare Expenses,2.55,87000,72
+657,70000,Startup Capital,6.26,60000,12
+816,53000,Childcare Expenses,2.93,42000,72
+787,54000,Social Enterprise,2.89,48000,12
+613,26000,Home Renovation,7.92,23000,48
+770,69000,Home Renovation,3.27,61000,48
+704,80000,Working Capital,4.62,72000,36
+692,41000,Working Capital,5.53,35000,12
+713,99000,Technology Upgrade,4.47,90000,12
+640,70000,Marketing and Advertising,7.11,69000,36
+661,42000,Business Expansion,6.06,34000,72
+678,86000,Vehicle for Business Use,5.7,74000,60
+721,76000,Utility Payments,4.45,63000,24
+726,26000,Childcare Expenses,5.43,22000,60
+790,6000,Working Capital,2.83,5000,12
+673,78000,Technology Upgrade,6.86,71000,12
+797,94000,Healthcare Expenses,3.78,92000,48
+693,11000,Startup Capital,6.31,9000,36
+819,68000,Travel Costs,2.98,61000,60
+762,17000,Training and Development,3.36,14000,24
+698,27000,Social Enterprise,6.52,22000,24
+771,12000,Agriculture Expenses,3.91,11000,60
+831,85000,Community Projects,3.45,78000,24
+701,33000,Vehicle for Business Use,4.3,31000,60
+654,53000,Debt Consolidation,6.14,50000,72
+706,13000,Startup Capital,4.21,11000,24
+738,38000,Startup Capital,5.32,37000,36
+844,91000,Working Capital,3.12,77000,12
+842,84000,Wedding Expenses,2.88,72000,60
+689,86000,Healthcare Expenses,5.52,75000,72
+636,73000,Technology Upgrade,8.85,64000,12
+784,7000,Healthcare Expenses,3.4,5000,60
+834,55000,Marketing and Advertising,3.92,50000,12
+607,42000,Inventory Purchase,7.17,36000,24
+625,55000,Technology Upgrade,8.95,44000,36
+716,21000,Social Enterprise,4.68,19000,36
+655,78000,Community Projects,6.78,75000,12
+694,23000,Training and Development,6.49,19000,24
+811,50000,Equipment Purchase,2.52,41000,24
+806,15000,Healthcare Expenses,2.81,12000,48
+609,66000,Childcare Expenses,8.56,61000,72
+812,15000,Training and Development,3.31,14000,12
+637,60000,Debt Consolidation,7.54,53000,72
+844,7000,Travel Costs,3.53,5000,60
+784,6000,Community Projects,3.3,5000,24
+745,29000,Utility Payments,5.37,28000,24
+653,65000,Training and Development,6.17,57000,24
+661,59000,Healthcare Expenses,5.68,47000,60
+724,67000,Business Expansion,4.47,60000,72
+621,64000,Startup Capital,7.63,60000,12
+607,87000,Travel Costs,7.27,80000,60
+768,93000,Business Expansion,3.27,78000,48
+743,14000,Technology Upgrade,4.73,13000,12
+809,93000,Emergency Business Funds,3.65,88000,36
+787,61000,Training and Development,3.65,55000,36
+773,43000,Inventory Purchase,3.9,38000,12
+609,89000,Community Projects,7.97,83000,12
+805,56000,Marketing and Advertising,2.8,50000,36
+740,9000,Community Projects,3.98,8000,36
+826,59000,Technology Upgrade,2.92,53000,12
+715,68000,Working Capital,4.55,64000,36
+632,73000,Emergency Business Funds,7.58,65000,24
+849,21000,Training and Development,3.75,20000,12
+822,36000,Technology Upgrade,2.48,31000,36
+613,13000,Startup Capital,7.46,12000,12
+799,32000,Green Initiatives,3.48,28000,12
+652,12000,Inventory Purchase,6.21,9000,12
+837,38000,Equipment Purchase,2.81,34000,36
+810,51000,Education Fees,3.95,49000,60
+637,60000,Travel Costs,6.97,58000,72
+616,48000,Community Projects,7.11,39000,12
+791,90000,Wedding Expenses,3.63,72000,60
+634,84000,Equipment Purchase,8.82,75000,12
+672,91000,Equipment Purchase,6.78,81000,36
+820,35000,Emergency Personal Funds,2.52,33000,60
+677,21000,Vehicle for Business Use,6.51,19000,48
+697,13000,Training and Development,6.63,11000,36
+673,93000,Healthcare Expenses,6.32,89000,72
+823,79000,Wedding Expenses,3.57,70000,72
+644,74000,Travel Costs,8.84,60000,48
+807,33000,Community Projects,2.57,26000,36
+620,54000,Vehicle for Business Use,7.72,44000,72
+720,95000,Green Initiatives,4.72,91000,36
+620,90000,Training and Development,7.95,84000,36
+653,17000,Social Enterprise,6.86,15000,24
+842,26000,Technology Upgrade,3.63,25000,36
+810,88000,Inventory Purchase,2.9,82000,24
+695,51000,Business Expansion,6.64,40000,48
+624,10000,Vehicle for Business Use,8.57,8000,60
+799,33000,Home Renovation,3.06,29000,72
+637,98000,Working Capital,8.71,95000,24
+715,66000,Childcare Expenses,5.16,53000,60
+692,34000,Working Capital,6.14,31000,36
+656,86000,Emergency Business Funds,5.73,72000,36
+839,28000,Travel Costs,3.88,22000,48
+793,63000,Technology Upgrade,2.99,57000,12
+620,12000,Community Projects,7.87,10000,36
+717,55000,Training and Development,4.48,45000,12
+727,98000,Equipment Purchase,5.32,85000,36
+646,50000,Equipment Purchase,8.02,47000,36
+844,67000,Emergency Business Funds,3.93,64000,36
+623,74000,Travel Costs,7.5,65000,48
+726,42000,Inventory Purchase,5.31,36000,12
+707,62000,Startup Capital,4.86,51000,36
+787,87000,Travel Costs,3.41,85000,60
+798,16000,Technology Upgrade,3.86,13000,24
+797,36000,Education Fees,3.65,29000,72
+619,88000,Travel Costs,7.89,87000,60
+653,68000,Training and Development,6.49,60000,36
+725,82000,Training and Development,5.41,69000,12
+677,86000,Marketing and Advertising,6.86,69000,12
+643,17000,Training and Development,7.29,15000,24
+687,22000,Emergency Business Funds,5.9,21000,36
+799,62000,Green Initiatives,2.53,58000,24
+653,8000,Technology Upgrade,6.89,7000,36
+638,89000,Training and Development,8.61,87000,36
+677,23000,Technology Upgrade,6.48,20000,24
+826,49000,Community Projects,3.83,42000,12
+656,92000,Emergency Personal Funds,6.76,89000,60
+698,62000,Community Projects,6.15,50000,24
+736,95000,Marketing and Advertising,4.17,91000,36
+748,30000,Childcare Expenses,4.3,28000,60
+647,62000,Utility Payments,7.31,54000,36
+760,32000,Utility Payments,2.61,27000,24
+845,85000,Childcare Expenses,3.83,84000,72
+780,77000,Green Initiatives,3.81,76000,12
+602,55000,Working Capital,7.33,52000,12
+755,57000,Healthcare Expenses,3.56,54000,60
+761,84000,Technology Upgrade,2.74,79000,12
+814,11000,Healthcare Expenses,3.25,10000,48
+688,58000,Agriculture Expenses,5.77,48000,72
+767,81000,Training and Development,3.74,78000,24
+786,68000,Utility Payments,3.63,63000,12
+761,22000,Home Renovation,2.6,19000,48
+779,51000,Community Projects,3.65,47000,36
+836,87000,Childcare Expenses,3.06,86000,60
+623,54000,Debt Consolidation,8.71,50000,72
+840,33000,Technology Upgrade,3.47,28000,36
+755,45000,Home Renovation,3.59,36000,60
+683,64000,Emergency Business Funds,6.1,55000,12
+748,21000,Healthcare Expenses,5.3,19000,72
+707,99000,Inventory Purchase,5.3,87000,12
+825,15000,Startup Capital,3.38,13000,24
+837,37000,Social Enterprise,3.94,29000,36
+703,23000,Green Initiatives,5.17,19000,12
+715,82000,Social Enterprise,4.65,67000,24
+654,15000,Marketing and Advertising,5.54,14000,24
+783,63000,Training and Development,3.34,60000,12
+609,20000,Emergency Personal Funds,9.0,16000,48
+764,61000,Travel Costs,2.51,50000,48
+612,76000,Marketing and Advertising,8.86,72000,24
+777,17000,Equipment Purchase,3.82,16000,12
+815,31000,Working Capital,2.84,25000,36
+618,69000,Technology Upgrade,7.36,68000,24
+778,38000,Emergency Business Funds,3.75,31000,36
+693,23000,Startup Capital,6.56,21000,24
+784,46000,Travel Costs,3.25,43000,48
+809,64000,Startup Capital,2.47,57000,24
+613,57000,Equipment Purchase,8.89,52000,24
+679,64000,Social Enterprise,6.56,57000,12
+711,14000,Wedding Expenses,5.33,12000,48
+764,60000,Equipment Purchase,2.6,50000,36
+790,43000,Training and Development,3.27,38000,12
+773,53000,Marketing and Advertising,3.84,42000,24
+681,95000,Training and Development,5.71,86000,12
+727,28000,Equipment Purchase,4.66,26000,36
+731,72000,Education Fees,5.32,67000,48
+763,53000,Marketing and Advertising,2.95,46000,12
+697,41000,Green Initiatives,5.8,39000,24
+678,79000,Healthcare Expenses,5.48,68000,72
+722,23000,Green Initiatives,4.2,21000,12
+729,56000,Education Fees,5.39,46000,48
+814,82000,Home Renovation,3.71,78000,60
+838,13000,Social Enterprise,2.47,11000,12
+745,80000,Debt Consolidation,5.36,72000,60
+760,37000,Wedding Expenses,2.93,33000,72
+709,38000,Emergency Business Funds,4.88,32000,24
+706,39000,Technology Upgrade,4.99,35000,24
+608,98000,Social Enterprise,7.45,85000,12
+817,48000,Utility Payments,2.96,40000,12
+732,91000,Education Fees,4.64,87000,72
+823,69000,Travel Costs,3.21,64000,72
+605,58000,Technology Upgrade,8.05,51000,12
+678,20000,Wedding Expenses,5.47,17000,60
+831,41000,Social Enterprise,3.64,38000,36
+699,47000,Green Initiatives,6.15,43000,24
+762,73000,Agriculture Expenses,3.03,72000,48
+620,13000,Startup Capital,8.34,11000,24
+600,81000,Emergency Personal Funds,8.4,65000,60
+698,43000,Vehicle for Business Use,5.47,41000,48
+620,60000,Wedding Expenses,7.06,50000,72
+703,59000,Business Expansion,5.44,57000,72
+637,19000,Working Capital,8.09,17000,24
+671,81000,Emergency Personal Funds,6.41,70000,72
+669,52000,Vehicle for Business Use,6.58,44000,72
+755,22000,Travel Costs,2.92,21000,60
+720,95000,Education Fees,5.18,92000,60
+758,50000,Utility Payments,3.32,47000,12
+818,39000,Utility Payments,3.89,36000,36
+784,37000,Marketing and Advertising,3.72,33000,24
+789,86000,Social Enterprise,2.9,85000,12
+649,51000,Working Capital,8.59,41000,12
+812,53000,Marketing and Advertising,3.53,48000,12
+791,98000,Agriculture Expenses,3.92,94000,60
+710,20000,Technology Upgrade,5.39,17000,36
+606,57000,Debt Consolidation,7.95,48000,72
+711,84000,Agriculture Expenses,5.13,81000,60
+630,100000,Healthcare Expenses,7.34,89000,72
+616,69000,Agriculture Expenses,7.66,64000,72
+705,71000,Travel Costs,5.01,70000,60
+798,65000,Agriculture Expenses,3.7,56000,60
+675,74000,Healthcare Expenses,6.22,71000,60
+691,9000,Debt Consolidation,6.93,8000,72
+724,69000,Equipment Purchase,5.25,56000,12
+682,7000,Equipment Purchase,6.87,6000,24
+709,69000,Healthcare Expenses,4.21,55000,60
+719,68000,Marketing and Advertising,5.41,63000,24
+829,46000,Working Capital,3.89,43000,12
+755,25000,Emergency Personal Funds,3.45,20000,48
+672,91000,Emergency Personal Funds,5.7,82000,72
+802,86000,Training and Development,3.31,72000,24
+771,55000,Marketing and Advertising,3.84,52000,12
+699,67000,Vehicle for Business Use,6.71,59000,72
+818,80000,Healthcare Expenses,2.81,77000,72
+630,11000,Utility Payments,8.57,10000,36
+758,56000,Training and Development,3.21,52000,12
+814,94000,Agriculture Expenses,3.19,84000,60
+677,26000,Vehicle for Business Use,6.7,21000,48
+764,15000,Social Enterprise,2.53,14000,36
+757,77000,Working Capital,3.66,72000,12
+752,17000,Education Fees,3.67,14000,60
+793,89000,Education Fees,2.9,85000,60
+665,95000,Travel Costs,6.19,76000,72
+613,28000,Emergency Business Funds,7.31,27000,12
+629,86000,Childcare Expenses,7.06,81000,72
+802,57000,Community Projects,3.03,50000,12
+786,10000,Home Renovation,2.58,8000,60
+622,47000,Green Initiatives,8.61,43000,36
+813,67000,Startup Capital,3.28,64000,12
+678,40000,Technology Upgrade,5.86,38000,24
+622,85000,Startup Capital,7.45,82000,36
+762,23000,Emergency Personal Funds,2.96,22000,72
+686,96000,Emergency Personal Funds,6.04,90000,60
+710,10000,Equipment Purchase,3.96,9000,12
+740,48000,Education Fees,4.32,39000,60
+636,65000,Inventory Purchase,7.6,56000,12
+755,34000,Startup Capital,3.26,29000,24
+697,69000,Healthcare Expenses,6.02,60000,72
+600,55000,Wedding Expenses,7.87,49000,48
+631,59000,Equipment Purchase,8.81,56000,36
+704,99000,Travel Costs,4.15,88000,48
+792,55000,Technology Upgrade,2.72,51000,36
+848,38000,Training and Development,3.03,37000,12
+846,58000,Green Initiatives,2.73,52000,36
+781,44000,Emergency Business Funds,2.99,41000,36
+652,61000,Vehicle for Business Use,5.66,55000,60
+779,26000,Inventory Purchase,3.8,21000,12
+742,61000,Agriculture Expenses,4.92,52000,60
+628,54000,Working Capital,7.83,44000,24
+809,5000,Debt Consolidation,2.73,4000,60
+726,10000,Business Expansion,4.32,8000,60
+772,24000,Home Renovation,2.62,19000,48
+749,86000,Agriculture Expenses,4.22,74000,72
+637,56000,Technology Upgrade,8.19,50000,12
+698,42000,Working Capital,6.74,38000,36
+763,33000,Marketing and Advertising,3.87,28000,24
+677,80000,Healthcare Expenses,6.18,78000,72
+676,9000,Marketing and Advertising,5.65,8000,12
+625,39000,Debt Consolidation,7.41,33000,72
+656,78000,Debt Consolidation,6.56,68000,48
+620,61000,Working Capital,7.54,57000,12
+691,20000,Technology Upgrade,5.98,17000,24
+644,58000,Inventory Purchase,7.16,50000,12
+773,79000,Home Renovation,3.11,78000,72
+813,43000,Utility Payments,3.29,38000,24
+824,32000,Education Fees,3.68,27000,60
+751,93000,Emergency Business Funds,3.71,89000,36
+607,37000,Social Enterprise,8.4,33000,36
+800,96000,Social Enterprise,3.59,80000,12
+749,14000,Technology Upgrade,5.12,12000,36
+634,38000,Emergency Personal Funds,8.77,32000,48
+797,37000,Equipment Purchase,3.32,31000,36
+627,77000,Debt Consolidation,8.38,68000,72
+769,72000,Community Projects,2.69,69000,12
+849,76000,Social Enterprise,3.15,69000,12
+756,70000,Agriculture Expenses,2.85,56000,48
+760,96000,Social Enterprise,2.77,86000,36
+840,12000,Agriculture Expenses,2.77,10000,72
+817,24000,Debt Consolidation,3.03,23000,72
+815,40000,Debt Consolidation,2.57,38000,48
+838,41000,Working Capital,3.62,40000,36
+763,44000,Debt Consolidation,2.92,39000,48
+799,14000,Working Capital,3.55,13000,12
+637,95000,Training and Development,8.41,86000,12
+809,26000,Social Enterprise,2.47,25000,36
+838,51000,Agriculture Expenses,3.38,42000,48
+774,83000,Vehicle for Business Use,2.49,78000,48
+670,59000,Vehicle for Business Use,6.27,51000,48
+631,5000,Emergency Business Funds,7.98,4000,36
+622,94000,Emergency Business Funds,8.54,76000,24
+764,20000,Social Enterprise,3.18,18000,24
+776,7000,Emergency Business Funds,3.62,5000,12
+765,49000,Working Capital,3.65,40000,36
+631,5000,Marketing and Advertising,8.5,4000,12
+807,33000,Education Fees,2.52,30000,60
+636,84000,Inventory Purchase,7.52,81000,12
+670,91000,Marketing and Advertising,5.94,77000,12
+823,15000,Healthcare Expenses,3.44,13000,60
+724,18000,Inventory Purchase,5.42,15000,12
+676,8000,Emergency Business Funds,6.93,7000,12
+695,7000,Childcare Expenses,5.63,6000,48
+788,15000,Education Fees,3.73,12000,48
+722,38000,Vehicle for Business Use,5.26,34000,60
+672,24000,Healthcare Expenses,6.93,23000,72
+628,46000,Wedding Expenses,7.39,43000,72
+754,34000,Debt Consolidation,3.16,27000,72
+804,85000,Equipment Purchase,3.43,84000,12
+818,18000,Technology Upgrade,3.64,16000,12
+724,94000,Business Expansion,4.0,76000,60
+694,80000,Training and Development,6.22,66000,12
+704,26000,Education Fees,4.49,20000,72
+632,85000,Utility Payments,8.8,81000,36
+848,25000,Emergency Business Funds,3.32,21000,36
+764,16000,Agriculture Expenses,3.64,15000,48
+805,50000,Inventory Purchase,3.32,46000,36
+683,79000,Childcare Expenses,6.2,78000,72
+650,79000,Agriculture Expenses,6.81,75000,48
+813,47000,Healthcare Expenses,3.26,44000,72
+625,91000,Emergency Personal Funds,7.02,81000,48
+823,14000,Debt Consolidation,2.54,11000,72
+792,99000,Home Renovation,2.64,93000,72
+780,100000,Travel Costs,3.11,91000,72
+828,44000,Emergency Business Funds,3.21,39000,36
+727,87000,Technology Upgrade,4.73,78000,24
+616,31000,Social Enterprise,8.25,26000,12
+847,50000,Technology Upgrade,3.26,48000,24
+621,93000,Inventory Purchase,8.13,74000,36
+831,94000,Training and Development,3.51,80000,12
+678,48000,Agriculture Expenses,5.7,40000,72
+819,38000,Wedding Expenses,2.78,34000,60
+658,39000,Debt Consolidation,5.61,35000,60
+649,24000,Marketing and Advertising,8.95,22000,24
+767,38000,Community Projects,3.77,32000,12
+780,71000,Marketing and Advertising,3.88,62000,36
+694,17000,Social Enterprise,5.79,13000,24
+748,59000,Marketing and Advertising,4.3,53000,24
+737,25000,Home Renovation,5.35,23000,48
+677,25000,Equipment Purchase,6.49,23000,12
+671,6000,Education Fees,5.67,4000,72
+694,96000,Working Capital,6.45,95000,12
+610,20000,Healthcare Expenses,8.82,18000,60
+721,64000,Emergency Personal Funds,4.34,60000,60
+628,13000,Agriculture Expenses,7.53,10000,72
+694,17000,Travel Costs,5.73,16000,72
+694,33000,Emergency Business Funds,5.5,32000,24
+642,10000,Green Initiatives,7.34,8000,12
+818,77000,Marketing and Advertising,2.59,65000,24
+658,58000,Social Enterprise,5.85,52000,36
+842,38000,Working Capital,3.72,34000,12
+657,30000,Working Capital,6.48,26000,36
+751,66000,Technology Upgrade,2.56,57000,24
+757,68000,Childcare Expenses,3.51,61000,72
+718,80000,Training and Development,4.35,76000,12
+788,30000,Equipment Purchase,3.24,28000,36
+811,63000,Debt Consolidation,3.06,61000,72
+809,9000,Utility Payments,3.1,7000,24
+753,33000,Vehicle for Business Use,3.2,32000,72
+771,9000,Vehicle for Business Use,2.79,8000,72
+613,79000,Training and Development,8.09,73000,36
+700,85000,Startup Capital,4.12,77000,12
+681,85000,Healthcare Expenses,6.15,74000,48
+620,78000,Training and Development,7.72,62000,12
+678,99000,Equipment Purchase,6.85,80000,12
+770,78000,Childcare Expenses,3.39,70000,48
+619,42000,Wedding Expenses,8.04,36000,72
+624,69000,Marketing and Advertising,8.72,64000,24
+714,21000,Home Renovation,4.14,17000,72
+824,83000,Healthcare Expenses,3.72,77000,72
+733,23000,Startup Capital,5.45,20000,12
+826,79000,Marketing and Advertising,3.34,69000,36
+802,7000,Debt Consolidation,3.68,6000,72
+695,17000,Technology Upgrade,5.66,15000,12
+704,23000,Vehicle for Business Use,3.96,22000,72
+689,7000,Childcare Expenses,6.04,6000,72
+782,33000,Social Enterprise,3.66,28000,12
+791,22000,Equipment Purchase,2.63,21000,36
+848,12000,Technology Upgrade,3.74,11000,12
+629,36000,Emergency Personal Funds,7.16,34000,60
+775,22000,Technology Upgrade,3.4,17000,24
+732,39000,Social Enterprise,4.43,32000,12
+707,11000,Inventory Purchase,4.24,10000,12
+805,96000,Equipment Purchase,3.0,86000,12
+638,10000,Business Expansion,8.83,8000,48
+627,88000,Community Projects,8.91,83000,24
+604,57000,Community Projects,7.12,45000,24
+682,72000,Inventory Purchase,6.44,58000,24
+837,66000,Utility Payments,3.51,61000,24
+790,62000,Technology Upgrade,3.9,60000,24
+826,70000,Wedding Expenses,3.46,56000,60
+732,9000,Travel Costs,4.24,8000,48
+649,67000,Agriculture Expenses,7.22,61000,60
+731,62000,Childcare Expenses,5.31,57000,72
+759,92000,Childcare Expenses,3.63,75000,48
+626,85000,Business Expansion,8.81,84000,60
+715,77000,Working Capital,4.34,76000,36
+716,44000,Community Projects,4.62,41000,36
+628,26000,Travel Costs,7.49,22000,60
+618,76000,Childcare Expenses,7.88,69000,60
+690,14000,Training and Development,6.29,13000,24
+667,87000,Wedding Expenses,5.54,77000,60
+622,66000,Healthcare Expenses,8.3,56000,48
+735,97000,Business Expansion,5.26,91000,60
+746,91000,Debt Consolidation,5.13,74000,48
+767,18000,Green Initiatives,3.06,16000,24
+703,34000,Equipment Purchase,5.06,32000,36
+780,18000,Business Expansion,3.87,17000,60
+681,58000,Marketing and Advertising,6.32,53000,12
+712,42000,Working Capital,4.62,39000,36
+727,25000,Business Expansion,4.97,23000,48
+781,50000,Debt Consolidation,2.77,42000,60
+784,72000,Marketing and Advertising,2.49,59000,12
+655,76000,Working Capital,5.5,74000,36
+729,68000,Home Renovation,5.32,63000,72
+807,61000,Vehicle for Business Use,3.04,59000,72
+734,64000,Emergency Business Funds,4.48,54000,12
+833,86000,Debt Consolidation,3.03,69000,72
+698,30000,Vehicle for Business Use,6.6,26000,60
+634,24000,Vehicle for Business Use,7.91,21000,48
+784,53000,Travel Costs,2.85,48000,48
+650,8000,Emergency Personal Funds,6.69,7000,72
+788,26000,Education Fees,3.78,23000,60
+768,39000,Debt Consolidation,3.47,36000,60
+698,17000,Debt Consolidation,5.52,16000,72
+830,64000,Travel Costs,3.01,54000,60
+802,87000,Technology Upgrade,3.8,80000,24
+730,72000,Green Initiatives,5.13,67000,24
+840,35000,Green Initiatives,3.76,32000,24
+785,6000,Healthcare Expenses,3.13,4000,60
+821,79000,Equipment Purchase,3.15,66000,24
+668,94000,Equipment Purchase,5.84,83000,24
+780,31000,Home Renovation,3.49,25000,60
+828,67000,Wedding Expenses,3.9,56000,72
+715,72000,Childcare Expenses,4.28,70000,60
+668,46000,Community Projects,6.36,45000,36
+620,51000,Startup Capital,7.38,47000,36
+646,94000,Green Initiatives,8.32,86000,36
+717,69000,Childcare Expenses,5.36,58000,60
+701,31000,Travel Costs,4.88,30000,48
+746,31000,Vehicle for Business Use,4.63,27000,72
+696,76000,Working Capital,6.65,64000,24
+699,15000,Home Renovation,5.54,12000,48
+715,39000,Green Initiatives,4.93,37000,24
+653,20000,Healthcare Expenses,5.49,18000,72
+650,22000,Childcare Expenses,6.86,18000,48
+783,5000,Education Fees,2.75,4000,48
+789,20000,Startup Capital,3.79,18000,36
+830,41000,Emergency Business Funds,2.87,39000,24
+720,22000,Wedding Expenses,4.66,19000,48
+745,76000,Training and Development,5.03,75000,12
+835,31000,Social Enterprise,3.05,29000,36
+647,26000,Healthcare Expenses,8.52,24000,60
+833,39000,Emergency Business Funds,3.3,38000,12
+611,8000,Technology Upgrade,7.22,7000,36
+818,51000,Utility Payments,2.92,43000,36
+809,48000,Community Projects,3.6,38000,12
+766,16000,Wedding Expenses,3.56,14000,72
+768,28000,Technology Upgrade,2.57,25000,24
+779,22000,Inventory Purchase,3.2,18000,36
+795,43000,Debt Consolidation,3.57,38000,72
+781,54000,Community Projects,3.49,49000,36
+668,39000,Agriculture Expenses,5.54,32000,72
+756,69000,Home Renovation,3.01,61000,72
+661,7000,Inventory Purchase,6.27,6000,12
+846,31000,Green Initiatives,3.61,27000,12
+848,50000,Working Capital,3.49,42000,24
+611,90000,Home Renovation,8.6,82000,72
+746,70000,Startup Capital,4.24,67000,36
+758,74000,Social Enterprise,3.32,63000,36
+810,67000,Vehicle for Business Use,2.82,65000,60
+760,43000,Emergency Personal Funds,3.37,38000,48
+831,5000,Social Enterprise,2.49,4000,12
+749,84000,Community Projects,5.23,76000,24
+640,46000,Marketing and Advertising,7.74,39000,12
+800,99000,Community Projects,3.01,87000,36
+809,99000,Marketing and Advertising,3.1,94000,24
+799,6000,Utility Payments,3.54,4000,36
+717,80000,Technology Upgrade,4.01,79000,36
+634,12000,Community Projects,7.64,10000,36
+823,24000,Agriculture Expenses,3.42,21000,72
+707,24000,Travel Costs,4.03,19000,48
+737,92000,Utility Payments,5.18,84000,24
+738,81000,Travel Costs,5.45,74000,60
+621,88000,Working Capital,8.51,83000,12
+671,8000,Business Expansion,6.64,7000,72
+842,58000,Equipment Purchase,3.24,50000,36
+819,99000,Business Expansion,3.76,85000,72
+759,31000,Social Enterprise,3.07,26000,24
+681,95000,Home Renovation,6.91,87000,72
+801,100000,Business Expansion,3.86,89000,48
+761,68000,Agriculture Expenses,3.0,60000,48
+739,74000,Marketing and Advertising,5.44,62000,24
+825,60000,Marketing and Advertising,2.93,56000,24
+817,6000,Emergency Business Funds,2.46,5000,36
+828,100000,Working Capital,3.32,85000,24
+792,82000,Marketing and Advertising,3.64,74000,12
+658,84000,Social Enterprise,6.57,69000,12
+717,90000,Business Expansion,5.12,83000,48
+731,25000,Working Capital,4.68,24000,36
+686,90000,Startup Capital,5.84,78000,12
+824,48000,Training and Development,2.93,45000,24
+806,45000,Agriculture Expenses,3.41,41000,72
+707,16000,Childcare Expenses,5.11,13000,72
+754,43000,Utility Payments,3.11,39000,12
+617,47000,Healthcare Expenses,7.99,42000,72
+761,80000,Home Renovation,3.93,73000,60
+676,27000,Home Renovation,6.93,23000,72
+790,43000,Training and Development,2.78,42000,24
+626,12000,Agriculture Expenses,8.86,10000,60
+802,30000,Emergency Personal Funds,3.71,27000,72
+657,19000,Inventory Purchase,6.1,18000,12
+616,93000,Home Renovation,8.53,75000,60
+634,67000,Inventory Purchase,8.18,61000,12
+814,96000,Healthcare Expenses,3.73,77000,60
+633,73000,Home Renovation,8.11,69000,60
+765,81000,Technology Upgrade,3.2,67000,24
+630,53000,Emergency Business Funds,8.39,45000,24
+611,70000,Emergency Personal Funds,8.01,57000,48
+769,87000,Marketing and Advertising,3.69,75000,12
+675,54000,Equipment Purchase,5.82,48000,12
+611,28000,Working Capital,7.44,27000,36
+619,96000,Wedding Expenses,8.23,87000,48
+835,36000,Utility Payments,3.13,29000,12
+727,16000,Business Expansion,4.97,15000,60
+837,39000,Education Fees,2.88,34000,60
+844,39000,Home Renovation,3.91,32000,48
+715,38000,Community Projects,4.52,32000,24
+749,96000,Technology Upgrade,4.52,81000,24
+788,13000,Vehicle for Business Use,3.63,12000,48
+809,12000,Equipment Purchase,3.75,11000,24
+719,12000,Working Capital,4.87,11000,12
+605,61000,Emergency Business Funds,7.12,51000,12
+778,22000,Childcare Expenses,3.48,17000,72
+845,22000,Marketing and Advertising,2.75,18000,24
+791,93000,Healthcare Expenses,3.78,81000,72
+832,45000,Community Projects,3.28,43000,24
+829,50000,Utility Payments,2.71,46000,12
+656,5000,Home Renovation,6.28,4000,72
+819,19000,Utility Payments,2.83,15000,36
+754,56000,Home Renovation,2.64,50000,72
+741,40000,Startup Capital,4.98,34000,36
+680,40000,Community Projects,5.78,39000,12
+715,89000,Home Renovation,4.6,77000,72
+704,72000,Technology Upgrade,4.2,59000,12
+681,55000,Debt Consolidation,6.55,44000,60
+653,81000,Working Capital,5.83,75000,24
+692,60000,Vehicle for Business Use,6.93,51000,60
+708,58000,Emergency Personal Funds,4.71,47000,60
+793,26000,Wedding Expenses,3.18,24000,72
+819,92000,Education Fees,3.59,87000,60
+717,8000,Training and Development,5.11,7000,12
+613,95000,Marketing and Advertising,7.6,93000,36
+624,46000,Travel Costs,8.11,43000,48
+804,63000,Community Projects,2.78,62000,12
+735,92000,Wedding Expenses,4.03,86000,60
+616,20000,Inventory Purchase,7.66,16000,36
+841,97000,Equipment Purchase,3.67,83000,12
+730,40000,Working Capital,4.79,34000,12
+636,10000,Debt Consolidation,7.48,8000,48
+774,25000,Community Projects,3.62,24000,24
+843,78000,Healthcare Expenses,3.33,67000,60
+663,53000,Emergency Business Funds,5.89,49000,12
+623,89000,Marketing and Advertising,7.37,77000,36
+759,51000,Technology Upgrade,3.59,44000,24
+829,16000,Wedding Expenses,3.83,14000,48
+704,62000,Utility Payments,4.72,50000,36
+782,63000,Vehicle for Business Use,3.88,57000,72
+622,32000,Vehicle for Business Use,6.96,26000,72
+743,65000,Technology Upgrade,4.22,54000,12
+805,82000,Emergency Business Funds,2.61,78000,24
+680,22000,Education Fees,5.64,21000,48
+841,50000,Vehicle for Business Use,3.79,42000,72
+644,52000,Emergency Business Funds,6.97,47000,24
+825,68000,Wedding Expenses,3.27,54000,60
+616,22000,Community Projects,8.63,17000,12
+657,41000,Inventory Purchase,5.96,35000,12
+814,31000,Debt Consolidation,3.81,25000,60
+813,86000,Education Fees,2.92,84000,48
+630,76000,Vehicle for Business Use,7.81,63000,48
+603,60000,Home Renovation,8.86,58000,48
+767,24000,Utility Payments,3.39,23000,24
+743,44000,Childcare Expenses,5.33,39000,48
+685,15000,Vehicle for Business Use,6.13,12000,60
+777,22000,Childcare Expenses,3.82,18000,48
+672,42000,Wedding Expenses,5.46,33000,60
+706,19000,Emergency Personal Funds,5.19,17000,48
+609,13000,Utility Payments,8.55,11000,24
+698,7000,Education Fees,5.71,6000,48
+710,17000,Emergency Personal Funds,4.41,14000,72
+662,22000,Utility Payments,6.85,21000,36
+767,39000,Business Expansion,3.87,37000,60
+711,86000,Technology Upgrade,5.41,83000,12
+697,70000,Emergency Personal Funds,6.92,67000,60
+628,44000,Wedding Expenses,7.43,38000,48
+733,43000,Wedding Expenses,5.25,38000,60
+808,80000,Wedding Expenses,2.89,71000,72
+729,94000,Business Expansion,5.36,90000,60
+786,14000,Emergency Personal Funds,3.51,11000,60
+728,76000,Home Renovation,3.99,63000,60
+845,45000,Childcare Expenses,3.55,38000,72
+760,85000,Green Initiatives,2.8,81000,36
+630,63000,Social Enterprise,7.69,60000,24
+702,38000,Healthcare Expenses,4.84,33000,48
+671,45000,Vehicle for Business Use,6.59,36000,48
+608,96000,Equipment Purchase,7.65,95000,24
+618,39000,Startup Capital,7.07,36000,36
+678,92000,Inventory Purchase,6.56,79000,36
+804,92000,Travel Costs,3.05,87000,72
+746,49000,Home Renovation,4.36,46000,60
+679,17000,Inventory Purchase,5.79,15000,36
+821,8000,Equipment Purchase,3.43,6000,36
+780,91000,Training and Development,2.99,87000,12
+737,68000,Education Fees,4.83,63000,72
+825,52000,Utility Payments,3.87,43000,36
+603,31000,Agriculture Expenses,8.84,25000,60
+735,80000,Wedding Expenses,4.5,74000,72
+628,16000,Green Initiatives,8.18,14000,36
+679,34000,Marketing and Advertising,5.55,28000,24
+685,80000,Debt Consolidation,6.07,79000,48
+600,43000,Training and Development,7.92,37000,36
+743,74000,Agriculture Expenses,4.62,68000,72
+805,92000,Debt Consolidation,2.73,74000,48
+605,100000,Travel Costs,7.21,80000,60
+743,7000,Home Renovation,4.9,5000,72
+733,90000,Community Projects,3.96,77000,12
+835,20000,Travel Costs,3.13,18000,48
+699,94000,Emergency Business Funds,5.85,76000,24
+683,60000,Home Renovation,5.54,49000,48
+806,89000,Inventory Purchase,2.89,81000,24
+789,61000,Vehicle for Business Use,3.01,55000,72
+675,51000,Training and Development,5.58,42000,24
+795,28000,Equipment Purchase,3.91,24000,36
+750,11000,Emergency Business Funds,3.48,9000,24
+812,89000,Training and Development,2.59,87000,36
+762,65000,Working Capital,2.87,64000,36
+649,27000,Marketing and Advertising,8.83,26000,24
+601,84000,Education Fees,8.45,80000,48
+624,33000,Equipment Purchase,8.43,29000,12
+612,78000,Childcare Expenses,7.11,77000,72
+646,98000,Travel Costs,8.12,90000,60
+720,40000,Vehicle for Business Use,5.3,35000,60
+734,86000,Startup Capital,4.86,82000,12
+828,93000,Marketing and Advertising,2.46,77000,36
+675,41000,Home Renovation,5.86,37000,72
+734,26000,Business Expansion,4.53,25000,72
+745,38000,Vehicle for Business Use,4.4,35000,48
+816,36000,Childcare Expenses,3.69,29000,72
+652,83000,Healthcare Expenses,6.85,75000,48
+768,14000,Agriculture Expenses,3.81,13000,60
+662,68000,Childcare Expenses,5.87,63000,72
+700,85000,Wedding Expenses,4.15,78000,72
+759,32000,Home Renovation,2.87,26000,48
+827,57000,Debt Consolidation,3.43,51000,72
+605,42000,Debt Consolidation,7.33,41000,72
+754,57000,Education Fees,2.97,46000,60
+698,64000,Social Enterprise,6.52,60000,36
+698,9000,Green Initiatives,5.58,7000,12
+712,92000,Marketing and Advertising,4.81,82000,24
+619,69000,Debt Consolidation,8.72,68000,72
+807,91000,Business Expansion,3.44,77000,60
+814,15000,Green Initiatives,3.93,12000,24
+617,75000,Emergency Personal Funds,7.46,70000,48
+690,55000,Training and Development,6.07,47000,12
+684,48000,Debt Consolidation,6.29,40000,72
+822,59000,Childcare Expenses,2.95,53000,60
+686,78000,Training and Development,6.36,69000,36
+801,39000,Healthcare Expenses,3.8,37000,72
+660,79000,Agriculture Expenses,6.59,74000,60
+781,5000,Healthcare Expenses,2.93,4000,72
+784,10000,Emergency Personal Funds,2.94,9000,72
+830,36000,Travel Costs,2.91,29000,48
+765,11000,Green Initiatives,2.9,10000,12
+658,82000,Healthcare Expenses,6.9,68000,48
+770,81000,Home Renovation,2.53,70000,60
+632,21000,Marketing and Advertising,8.81,20000,36
+843,41000,Community Projects,2.69,33000,12
+607,92000,Business Expansion,7.96,79000,60
+814,35000,Social Enterprise,3.37,29000,36
+724,39000,Childcare Expenses,4.2,32000,72
+712,26000,Startup Capital,5.05,24000,12
+791,48000,Community Projects,2.87,46000,12
+717,50000,Vehicle for Business Use,5.3,44000,72
+783,41000,Education Fees,2.65,39000,60
+829,40000,Business Expansion,3.78,39000,60
+636,49000,Technology Upgrade,7.85,44000,24
+783,82000,Agriculture Expenses,2.85,79000,72
+727,89000,Startup Capital,5.34,88000,12
+627,97000,Training and Development,8.52,95000,24
+817,5000,Inventory Purchase,2.67,4000,12
+850,88000,Business Expansion,2.83,82000,48
+644,96000,Childcare Expenses,8.44,85000,48
+732,36000,Home Renovation,4.2,33000,72
+844,38000,Childcare Expenses,3.36,33000,72
+758,76000,Social Enterprise,3.41,70000,12
+625,94000,Agriculture Expenses,8.49,83000,60
+723,57000,Utility Payments,5.03,47000,12
+659,72000,Social Enterprise,6.91,71000,12
+639,38000,Childcare Expenses,7.75,34000,72
+850,9000,Social Enterprise,2.95,7000,24
+777,67000,Utility Payments,3.47,60000,36
+844,62000,Vehicle for Business Use,3.07,56000,60
+751,100000,Community Projects,2.85,87000,36
+616,55000,Training and Development,8.6,49000,36
+838,76000,Childcare Expenses,3.94,68000,48
+670,35000,Community Projects,5.57,32000,12
+778,68000,Childcare Expenses,3.92,60000,48
+762,88000,Healthcare Expenses,3.81,74000,48
+692,84000,Business Expansion,6.38,71000,60
+762,64000,Training and Development,2.71,57000,12
+618,46000,Training and Development,8.41,37000,24
+710,77000,Social Enterprise,5.33,74000,24
+831,61000,Marketing and Advertising,3.23,53000,24
+795,70000,Community Projects,3.5,68000,24
+712,53000,Healthcare Expenses,3.97,42000,48
+806,29000,Debt Consolidation,3.1,28000,60
+666,45000,Emergency Business Funds,5.51,41000,24
+846,31000,Inventory Purchase,3.02,29000,24
+792,6000,Childcare Expenses,3.27,5000,72
+628,25000,Green Initiatives,7.86,22000,12
+649,27000,Equipment Purchase,8.28,22000,24
+651,21000,Technology Upgrade,5.66,17000,12
+803,27000,Technology Upgrade,2.49,22000,24
+681,89000,Emergency Personal Funds,6.85,86000,48
+664,19000,Training and Development,6.24,17000,12
+831,66000,Utility Payments,2.53,56000,24
+761,19000,Debt Consolidation,3.62,15000,48
+688,16000,Inventory Purchase,6.44,12000,12
+777,83000,Inventory Purchase,3.39,70000,36
+637,73000,Training and Development,8.29,68000,24
+653,20000,Training and Development,6.03,16000,24
+622,21000,Marketing and Advertising,8.77,20000,24
+674,13000,Training and Development,6.13,11000,24
+629,20000,Emergency Business Funds,8.27,18000,36
+755,31000,Utility Payments,3.5,30000,12
+612,5000,Debt Consolidation,7.18,4000,72
+830,8000,Marketing and Advertising,2.5,7000,12
+647,96000,Community Projects,8.49,93000,36
+800,52000,Emergency Business Funds,3.04,45000,12
+814,84000,Emergency Personal Funds,2.66,71000,60
+808,41000,Home Renovation,2.64,38000,72
+657,81000,Home Renovation,6.05,70000,48
+780,44000,Utility Payments,3.48,36000,12
+820,18000,Debt Consolidation,3.86,17000,48
+705,60000,Childcare Expenses,5.34,58000,48
+802,86000,Home Renovation,3.28,83000,72
+745,14000,Vehicle for Business Use,4.38,12000,72
+848,29000,Wedding Expenses,3.35,27000,60
+684,83000,Social Enterprise,5.88,70000,36
+611,90000,Green Initiatives,7.75,83000,12
+615,94000,Debt Consolidation,7.06,79000,48
+839,50000,Healthcare Expenses,3.31,43000,72
+713,88000,Inventory Purchase,5.12,77000,36
+732,6000,Inventory Purchase,5.09,5000,24
+766,99000,Emergency Personal Funds,2.55,97000,60
+727,97000,Emergency Business Funds,4.14,95000,12
+661,9000,Education Fees,6.94,8000,48
+763,70000,Emergency Personal Funds,2.97,63000,60
+722,51000,Wedding Expenses,3.97,41000,48
+832,68000,Equipment Purchase,2.83,61000,24
+635,33000,Wedding Expenses,8.86,27000,72
+609,91000,Social Enterprise,7.81,81000,36
+822,38000,Marketing and Advertising,2.68,37000,24
+820,52000,Training and Development,3.52,44000,12
+690,89000,Working Capital,6.65,77000,12
+695,7000,Childcare Expenses,6.32,6000,60
+676,88000,Home Renovation,5.64,82000,72
+650,52000,Business Expansion,6.12,50000,48
+813,7000,Social Enterprise,3.13,6000,36
+697,84000,Social Enterprise,6.36,69000,36
+613,84000,Social Enterprise,7.91,80000,24
+830,54000,Wedding Expenses,3.1,44000,48
+784,9000,Education Fees,2.85,8000,72
+757,42000,Agriculture Expenses,3.25,39000,72
+775,84000,Childcare Expenses,2.66,74000,48
+758,68000,Training and Development,3.91,63000,24
+607,52000,Utility Payments,8.93,47000,12
+648,8000,Vehicle for Business Use,8.92,7000,48
+633,25000,Green Initiatives,8.01,21000,12
+610,88000,Technology Upgrade,6.99,71000,36
+808,34000,Utility Payments,2.68,30000,12
+601,13000,Wedding Expenses,8.79,11000,72
+704,95000,Home Renovation,4.41,81000,48
+747,91000,Healthcare Expenses,5.39,77000,72
+607,83000,Training and Development,7.43,69000,12
+814,80000,Healthcare Expenses,2.62,77000,60
+713,76000,Technology Upgrade,4.33,63000,36
+635,54000,Wedding Expenses,8.09,49000,60
+742,35000,Wedding Expenses,3.97,30000,60
+608,32000,Emergency Business Funds,7.13,26000,12
+744,47000,Education Fees,4.82,41000,72
+694,9000,Marketing and Advertising,5.89,8000,36
+725,37000,Emergency Business Funds,5.0,34000,12
+821,82000,Emergency Business Funds,2.78,78000,12
+621,46000,Emergency Personal Funds,7.66,37000,72
+607,56000,Vehicle for Business Use,8.12,54000,72
+693,15000,Home Renovation,5.57,13000,60
+697,81000,Healthcare Expenses,6.1,65000,72
+659,98000,Technology Upgrade,6.87,80000,12
+812,11000,Travel Costs,3.32,9000,60
+688,68000,Debt Consolidation,5.54,60000,60
+729,46000,Equipment Purchase,4.96,37000,12
+675,73000,Vehicle for Business Use,5.65,71000,48
+794,98000,Emergency Personal Funds,2.84,87000,72
+847,94000,Home Renovation,2.86,78000,48
+747,62000,Childcare Expenses,4.75,58000,60
+837,72000,Social Enterprise,2.58,58000,12
+730,14000,Working Capital,5.21,12000,24
+601,51000,Inventory Purchase,8.89,46000,12
+645,47000,Utility Payments,8.34,42000,36
+772,17000,Vehicle for Business Use,2.49,16000,48
+677,20000,Education Fees,6.07,19000,60
+688,73000,Vehicle for Business Use,6.04,72000,60
+724,28000,Community Projects,4.4,26000,12
+727,100000,Training and Development,4.65,83000,36
+805,72000,Business Expansion,3.72,68000,72
+772,39000,Home Renovation,2.98,35000,72
+806,29000,Inventory Purchase,2.51,26000,36
+710,24000,Wedding Expenses,3.96,21000,72
+836,72000,Travel Costs,2.78,57000,48
+720,19000,Emergency Personal Funds,4.52,17000,60
+684,51000,Training and Development,6.67,43000,24
+619,82000,Green Initiatives,8.71,67000,36
+743,37000,Training and Development,4.27,31000,12
+759,82000,Travel Costs,2.97,80000,48
+668,95000,Travel Costs,6.52,90000,72
+846,28000,Community Projects,3.66,26000,36
+736,12000,Home Renovation,5.0,9000,48
+780,40000,Training and Development,3.55,39000,12
+737,41000,Social Enterprise,4.37,33000,36
+706,27000,Home Renovation,5.19,21000,72
+732,26000,Business Expansion,4.94,23000,72
+815,24000,Utility Payments,3.64,19000,36
+731,30000,Startup Capital,4.85,29000,36
+847,5000,Education Fees,2.79,4000,72
+621,66000,Utility Payments,7.11,56000,12
+636,71000,Education Fees,8.22,57000,72
+796,22000,Equipment Purchase,2.83,20000,12
+647,20000,Community Projects,7.75,19000,24
+766,38000,Working Capital,3.54,34000,36
+815,72000,Technology Upgrade,3.56,65000,12
+774,46000,Inventory Purchase,3.85,42000,12
+683,30000,Marketing and Advertising,6.66,27000,12
+614,37000,Community Projects,7.11,31000,24
+709,44000,Travel Costs,4.34,42000,48
+644,74000,Wedding Expenses,8.31,64000,60
+833,75000,Healthcare Expenses,3.76,65000,48
+612,58000,Education Fees,7.47,49000,72
+826,70000,Debt Consolidation,3.32,58000,72
+601,17000,Utility Payments,7.06,14000,12
+722,93000,Debt Consolidation,4.03,92000,72
+637,36000,Working Capital,8.43,30000,36
+703,38000,Debt Consolidation,4.67,34000,48
+656,38000,Home Renovation,6.69,33000,48
+707,23000,Startup Capital,5.4,22000,12
+818,40000,Inventory Purchase,3.83,35000,36
+769,45000,Technology Upgrade,2.91,41000,24
+713,46000,Business Expansion,4.79,40000,60
+781,87000,Childcare Expenses,4.0,83000,72
+672,100000,Healthcare Expenses,6.24,94000,48
+606,98000,Training and Development,8.49,92000,36
+648,37000,Green Initiatives,8.09,31000,24
+850,15000,Business Expansion,2.73,12000,72
+826,48000,Business Expansion,2.88,47000,48
+826,20000,Education Fees,3.48,18000,60
+849,63000,Wedding Expenses,2.78,60000,48
+627,34000,Healthcare Expenses,7.89,30000,48
+729,27000,Travel Costs,4.16,22000,48
+775,27000,Childcare Expenses,3.78,24000,48
+611,9000,Inventory Purchase,8.54,7000,36
+768,75000,Healthcare Expenses,3.04,72000,72
+715,58000,Childcare Expenses,4.13,54000,72
+735,68000,Working Capital,4.16,59000,36
+833,43000,Healthcare Expenses,2.95,37000,60
+843,52000,Debt Consolidation,3.29,50000,60
+721,21000,Equipment Purchase,4.06,20000,24
+752,73000,Green Initiatives,3.24,68000,12
+667,80000,Wedding Expenses,5.53,74000,48
+708,57000,Community Projects,5.05,55000,12
+683,55000,Emergency Personal Funds,6.94,44000,60
+691,35000,Startup Capital,6.22,30000,12
+735,68000,Agriculture Expenses,4.15,64000,48
+847,96000,Training and Development,3.48,83000,24
+658,9000,Working Capital,6.6,8000,12
+795,62000,Business Expansion,3.18,57000,48
+736,40000,Training and Development,4.06,39000,12
+735,87000,Agriculture Expenses,5.17,81000,60
+815,33000,Home Renovation,3.01,31000,72
+715,62000,Community Projects,4.82,57000,24
+784,22000,Business Expansion,3.39,21000,48
+847,47000,Agriculture Expenses,3.57,37000,48
+619,43000,Working Capital,7.61,36000,24
+820,16000,Training and Development,3.59,13000,36
+607,12000,Travel Costs,7.2,10000,60
+643,30000,Business Expansion,8.64,29000,48
+702,98000,Emergency Business Funds,4.84,91000,12
+806,91000,Technology Upgrade,3.2,79000,24
+711,88000,Training and Development,4.15,73000,24
+817,21000,Equipment Purchase,2.86,20000,36
+748,22000,Education Fees,4.55,20000,60
+773,60000,Business Expansion,3.9,51000,48
+671,47000,Marketing and Advertising,5.83,43000,36
+792,52000,Childcare Expenses,2.59,46000,72
+839,98000,Training and Development,2.97,95000,36
+787,32000,Wedding Expenses,3.94,26000,72
+788,61000,Technology Upgrade,2.9,58000,12
+755,37000,Social Enterprise,2.89,34000,24
+680,26000,Debt Consolidation,5.83,25000,60
+780,26000,Emergency Business Funds,3.94,23000,24
+768,89000,Equipment Purchase,3.2,71000,24
+668,8000,Childcare Expenses,6.81,6000,48
+791,59000,Home Renovation,3.04,47000,48
+740,73000,Startup Capital,4.62,69000,24
+766,81000,Healthcare Expenses,2.84,70000,48
+697,10000,Startup Capital,6.12,9000,24
+688,51000,Home Renovation,6.33,48000,72
+807,34000,Emergency Business Funds,2.53,33000,36
+670,74000,Travel Costs,6.6,63000,60
+613,33000,Education Fees,8.26,26000,48
+646,33000,Emergency Personal Funds,8.44,28000,48
+797,49000,Emergency Personal Funds,3.45,48000,72
+830,75000,Equipment Purchase,2.68,61000,36
+820,78000,Inventory Purchase,3.1,68000,36
+738,52000,Wedding Expenses,5.11,47000,60
+621,67000,Utility Payments,7.7,64000,12
+615,69000,Travel Costs,8.07,57000,48
+635,97000,Education Fees,8.05,95000,72
+780,45000,Business Expansion,3.29,36000,72
+805,55000,Community Projects,3.84,44000,36
+830,18000,Training and Development,3.12,16000,36
+741,97000,Business Expansion,5.22,80000,72
+713,11000,Utility Payments,5.33,10000,24
+601,69000,Wedding Expenses,8.93,66000,48
+715,58000,Technology Upgrade,5.35,46000,36
+608,34000,Equipment Purchase,8.3,33000,24
+657,16000,Inventory Purchase,6.92,14000,12
+673,13000,Vehicle for Business Use,6.44,10000,48
+657,64000,Childcare Expenses,5.6,60000,60
+657,91000,Wedding Expenses,6.71,74000,60
+694,62000,Emergency Personal Funds,6.49,51000,72
+629,31000,Business Expansion,7.18,25000,60
+698,53000,Emergency Personal Funds,6.91,49000,48
+706,67000,Training and Development,5.08,61000,12
+652,15000,Technology Upgrade,6.67,12000,36
+632,51000,Travel Costs,8.02,45000,72
+726,30000,Startup Capital,5.05,26000,12
+712,93000,Training and Development,4.2,83000,12
+778,42000,Training and Development,3.82,39000,24
+794,10000,Childcare Expenses,2.93,8000,60
+750,56000,Inventory Purchase,2.52,54000,12
+815,63000,Marketing and Advertising,2.49,55000,36
+763,6000,Healthcare Expenses,3.79,5000,72
+673,6000,Childcare Expenses,6.34,5000,72
+623,35000,Vehicle for Business Use,8.92,29000,60
+817,59000,Emergency Business Funds,3.24,57000,12
+682,13000,Business Expansion,6.48,12000,48
+756,25000,Community Projects,3.26,24000,24
+836,48000,Community Projects,2.46,41000,24
+674,38000,Technology Upgrade,5.85,35000,24
+762,38000,Utility Payments,3.11,35000,36
+656,92000,Travel Costs,6.72,89000,48
+720,59000,Social Enterprise,4.25,52000,24
+795,12000,Startup Capital,3.55,10000,12
+614,7000,Inventory Purchase,8.36,6000,24
+828,40000,Training and Development,3.28,39000,12
+789,55000,Agriculture Expenses,3.66,47000,60
+774,15000,Vehicle for Business Use,3.49,12000,72
+744,63000,Emergency Business Funds,4.51,54000,24
+715,31000,Technology Upgrade,5.37,24000,12
+827,70000,Technology Upgrade,3.82,69000,12
+796,16000,Home Renovation,2.56,13000,60
+819,55000,Agriculture Expenses,2.93,44000,48
+743,36000,Wedding Expenses,5.01,32000,48
+733,14000,Education Fees,5.34,11000,48
+648,71000,Childcare Expenses,8.93,64000,72
+673,87000,Emergency Business Funds,6.45,74000,36
+665,17000,Working Capital,6.35,16000,36
+661,54000,Equipment Purchase,5.86,53000,12
+765,69000,Home Renovation,3.58,55000,72
+768,65000,Business Expansion,3.24,62000,60
+624,67000,Inventory Purchase,8.5,56000,24
+800,25000,Equipment Purchase,2.46,20000,12
+822,47000,Business Expansion,2.86,41000,72
+650,51000,Travel Costs,6.76,47000,60
+673,46000,Equipment Purchase,6.91,37000,24
+602,48000,Working Capital,7.79,46000,24
+703,88000,Technology Upgrade,4.22,77000,12
+626,11000,Healthcare Expenses,7.78,10000,60
+848,18000,Equipment Purchase,3.54,15000,24
+729,91000,Childcare Expenses,5.27,77000,48
+626,72000,Social Enterprise,8.8,64000,36
+824,43000,Community Projects,3.33,41000,24
+706,25000,Training and Development,4.46,21000,36
+824,43000,Emergency Personal Funds,3.9,36000,48
+704,41000,Emergency Business Funds,4.92,33000,24
+684,39000,Equipment Purchase,6.78,38000,24
+672,42000,Emergency Business Funds,6.92,36000,12
+794,98000,Training and Development,2.7,88000,24
+811,21000,Emergency Business Funds,3.12,17000,12
+709,29000,Wedding Expenses,5.07,24000,48
+772,90000,Education Fees,3.04,75000,48
+740,19000,Business Expansion,5.17,18000,48
+847,9000,Training and Development,2.84,8000,36
+695,63000,Home Renovation,5.66,50000,60
+813,40000,Green Initiatives,3.25,34000,24
+811,19000,Startup Capital,3.38,17000,12
+665,6000,Travel Costs,6.66,5000,60
+811,77000,Debt Consolidation,3.53,66000,60
+618,36000,Emergency Business Funds,8.67,34000,36
+850,41000,Business Expansion,3.18,37000,48
+779,15000,Green Initiatives,3.87,12000,24
+718,50000,Social Enterprise,3.97,41000,36
+707,20000,Community Projects,4.84,16000,36
+661,32000,Childcare Expenses,5.86,29000,48
+714,63000,Travel Costs,4.19,52000,48
+651,79000,Startup Capital,6.52,74000,36
+701,49000,Home Renovation,4.89,45000,72
+645,49000,Technology Upgrade,7.99,43000,12
+664,35000,Community Projects,5.79,28000,36
+673,20000,Inventory Purchase,6.32,18000,12
+839,69000,Emergency Personal Funds,3.38,60000,60
+714,81000,Agriculture Expenses,4.78,64000,60
+803,21000,Social Enterprise,3.86,16000,12
+721,74000,Education Fees,4.82,65000,60
+666,98000,Business Expansion,5.72,87000,72
+693,66000,Marketing and Advertising,6.57,65000,36
+655,92000,Business Expansion,6.42,80000,48
+726,77000,Equipment Purchase,5.09,71000,24
+726,29000,Healthcare Expenses,5.21,24000,48
+630,92000,Inventory Purchase,7.57,78000,36
+781,19000,Technology Upgrade,2.71,16000,24
+843,29000,Startup Capital,3.12,27000,24
+827,70000,Inventory Purchase,3.89,64000,12
+756,42000,Green Initiatives,2.91,38000,12
+822,85000,Green Initiatives,3.43,74000,12
+738,47000,Inventory Purchase,4.54,44000,24
+681,59000,Community Projects,6.31,50000,12
+769,44000,Healthcare Expenses,3.18,41000,72
+798,87000,Social Enterprise,2.49,72000,36
+698,14000,Inventory Purchase,5.81,11000,12
+668,24000,Green Initiatives,6.78,20000,36
+820,33000,Training and Development,2.6,30000,36
+604,84000,Technology Upgrade,8.92,68000,24
+763,8000,Emergency Business Funds,3.05,6000,12
+651,18000,Debt Consolidation,6.33,14000,48
+785,31000,Travel Costs,3.14,28000,48
+657,98000,Community Projects,5.86,87000,24
+824,17000,Technology Upgrade,3.06,16000,36
+619,89000,Working Capital,8.39,86000,36
+707,16000,Marketing and Advertising,4.53,15000,24
+796,70000,Emergency Business Funds,3.56,68000,12
+629,82000,Emergency Personal Funds,6.98,66000,48
+649,53000,Debt Consolidation,8.4,45000,72
+706,94000,Social Enterprise,5.34,84000,24
+653,13000,Training and Development,5.92,10000,36
+803,53000,Startup Capital,3.25,46000,12
+659,7000,Utility Payments,6.68,6000,12
+653,45000,Debt Consolidation,5.84,43000,48
+843,94000,Training and Development,2.92,81000,12
+836,45000,Training and Development,2.94,36000,36
+840,55000,Childcare Expenses,3.46,51000,48
+817,25000,Agriculture Expenses,3.37,24000,72
+834,73000,Education Fees,3.44,68000,72
+759,6000,Equipment Purchase,3.09,5000,24
+850,48000,Social Enterprise,2.76,44000,24
+766,90000,Equipment Purchase,3.91,82000,36
+632,24000,Startup Capital,6.99,22000,12
+685,78000,Vehicle for Business Use,6.55,75000,48
+834,56000,Emergency Business Funds,3.35,49000,12
+672,54000,Inventory Purchase,6.8,49000,36
+669,38000,Debt Consolidation,6.28,35000,48
+828,25000,Education Fees,2.68,23000,48
+713,93000,Utility Payments,5.09,77000,24
+817,32000,Childcare Expenses,3.16,27000,60
+828,53000,Childcare Expenses,3.13,47000,48
+657,78000,Inventory Purchase,6.24,63000,12
+818,76000,Healthcare Expenses,2.59,73000,60
+694,58000,Working Capital,5.62,57000,24
+636,47000,Startup Capital,7.85,42000,12
+602,46000,Utility Payments,8.67,37000,24
+716,17000,Startup Capital,4.32,13000,12
+809,69000,Childcare Expenses,3.61,60000,60
+831,74000,Agriculture Expenses,3.95,65000,48
+733,71000,Working Capital,5.0,69000,24
+763,30000,Healthcare Expenses,2.78,27000,48
+698,61000,Travel Costs,6.92,54000,48
+746,84000,Green Initiatives,4.43,77000,12
+764,71000,Technology Upgrade,2.53,64000,36
+800,26000,Debt Consolidation,2.49,21000,60
+803,85000,Training and Development,3.9,71000,24
+850,65000,Education Fees,3.63,54000,60
+656,39000,Equipment Purchase,6.73,37000,36
+790,49000,Social Enterprise,3.14,48000,12
+603,57000,Community Projects,8.25,46000,12
+742,51000,Startup Capital,5.06,45000,36
+752,51000,Healthcare Expenses,3.76,41000,72
+721,94000,Education Fees,4.45,82000,60
+795,93000,Equipment Purchase,2.65,86000,12
+661,36000,Training and Development,6.85,32000,36
+613,59000,Emergency Personal Funds,6.98,53000,72
+698,76000,Wedding Expenses,6.6,63000,72
+798,46000,Emergency Business Funds,3.87,42000,24
+733,33000,Wedding Expenses,4.23,28000,48
+625,30000,Education Fees,8.4,29000,72
+681,23000,Travel Costs,6.29,22000,72
+747,100000,Utility Payments,4.02,85000,36
+608,48000,Vehicle for Business Use,8.43,42000,48
+826,14000,Home Renovation,3.81,12000,72
+664,51000,Social Enterprise,5.65,42000,24
+615,96000,Utility Payments,8.68,77000,36
+688,44000,Vehicle for Business Use,5.96,39000,48
+808,40000,Agriculture Expenses,2.96,32000,60
+742,63000,Wedding Expenses,4.46,53000,48
+603,58000,Home Renovation,7.16,46000,48
+724,42000,Vehicle for Business Use,4.93,39000,72
+756,74000,Training and Development,3.32,61000,12
+762,31000,Social Enterprise,2.92,29000,24
+677,39000,Agriculture Expenses,6.15,32000,48
+626,82000,Vehicle for Business Use,8.17,79000,48
+628,45000,Marketing and Advertising,7.94,44000,12
+736,99000,Inventory Purchase,4.65,88000,36
+603,48000,Community Projects,7.1,39000,12
+760,5000,Agriculture Expenses,3.81,4000,60
+722,27000,Debt Consolidation,4.96,24000,60
+809,16000,Travel Costs,3.74,15000,60
+805,94000,Technology Upgrade,3.69,83000,24
+724,93000,Debt Consolidation,4.92,88000,48
+722,16000,Inventory Purchase,4.97,12000,24
+614,77000,Vehicle for Business Use,8.14,73000,72
+767,64000,Emergency Business Funds,2.84,54000,12
+640,56000,Wedding Expenses,8.41,51000,60
+735,84000,Healthcare Expenses,5.41,72000,60
+846,74000,Utility Payments,3.64,72000,24
+840,97000,Emergency Business Funds,3.37,83000,24
+742,71000,Education Fees,5.35,66000,48
+810,73000,Wedding Expenses,3.93,66000,48
+726,45000,Debt Consolidation,4.31,38000,72
+689,60000,Travel Costs,5.88,54000,60
+753,39000,Training and Development,3.95,31000,12
+645,48000,Working Capital,7.49,44000,24
+770,36000,Technology Upgrade,3.34,34000,36
+614,42000,Training and Development,7.15,37000,12
+700,54000,Utility Payments,5.09,43000,36
+682,97000,Emergency Personal Funds,6.58,84000,60
+650,84000,Equipment Purchase,6.79,69000,12
+799,70000,Startup Capital,2.56,59000,36
+705,76000,Childcare Expenses,4.08,71000,48
+670,67000,Emergency Personal Funds,6.23,65000,60
+843,86000,Travel Costs,2.81,78000,60
+624,87000,Training and Development,7.91,85000,24
+749,33000,Healthcare Expenses,4.22,28000,60
+617,41000,Travel Costs,7.5,37000,48
+692,88000,Childcare Expenses,6.84,80000,72
+812,8000,Working Capital,3.18,7000,24
+669,79000,Business Expansion,6.4,70000,60
+668,12000,Marketing and Advertising,6.35,9000,12
+682,73000,Agriculture Expenses,6.69,72000,48
+735,21000,Community Projects,5.13,19000,24
+669,61000,Training and Development,6.04,58000,36
+642,81000,Childcare Expenses,7.9,72000,60
+754,35000,Green Initiatives,3.48,29000,12
+842,34000,Equipment Purchase,3.22,32000,12
+791,42000,Home Renovation,3.79,33000,48
+806,53000,Vehicle for Business Use,3.91,47000,72
+656,68000,Utility Payments,6.08,54000,24
+732,78000,Equipment Purchase,5.11,63000,12
+664,98000,Emergency Personal Funds,6.71,96000,72
+809,9000,Debt Consolidation,3.47,8000,48
+802,10000,Technology Upgrade,2.56,9000,24
+674,59000,Green Initiatives,6.05,57000,24
+606,5000,Inventory Purchase,8.61,4000,24
+734,20000,Marketing and Advertising,4.85,18000,36
+711,31000,Community Projects,4.06,27000,24
+622,68000,Healthcare Expenses,7.64,66000,60
+796,55000,Debt Consolidation,2.94,49000,60
+730,39000,Marketing and Advertising,5.2,33000,12
+775,68000,Travel Costs,3.68,63000,48
+810,54000,Technology Upgrade,3.65,44000,36
+779,33000,Agriculture Expenses,3.37,27000,72
+653,26000,Technology Upgrade,5.84,25000,36
+822,22000,Working Capital,2.78,21000,12
+708,43000,Healthcare Expenses,4.91,36000,48
+814,15000,Wedding Expenses,3.22,14000,48
+734,18000,Emergency Business Funds,4.86,16000,24
+645,36000,Debt Consolidation,8.87,30000,72
+719,39000,Equipment Purchase,4.26,37000,36
+614,77000,Emergency Personal Funds,7.08,75000,48
+600,28000,Emergency Personal Funds,7.08,24000,72
+796,47000,Training and Development,2.47,45000,24
+836,93000,Business Expansion,3.16,83000,72
+668,87000,Debt Consolidation,5.55,75000,60
+741,43000,Equipment Purchase,5.42,38000,36
+606,71000,Education Fees,8.15,61000,72
+661,53000,Startup Capital,6.4,43000,36
+837,55000,Home Renovation,2.77,51000,60
+828,20000,Green Initiatives,3.93,16000,24
+824,47000,Inventory Purchase,3.35,41000,12
+607,31000,Startup Capital,8.69,25000,12
+717,33000,Training and Development,4.46,32000,12
+792,94000,Business Expansion,3.15,83000,60
+824,59000,Social Enterprise,3.9,56000,12
+812,29000,Social Enterprise,3.44,24000,12
+800,61000,Startup Capital,2.93,52000,36
+614,54000,Startup Capital,7.59,49000,36
+822,23000,Emergency Personal Funds,3.29,21000,60
+776,53000,Community Projects,3.07,43000,12
+845,57000,Debt Consolidation,3.09,49000,60
+622,45000,Debt Consolidation,8.51,42000,72
+804,84000,Emergency Business Funds,3.1,78000,36
+808,21000,Green Initiatives,2.88,18000,24
+774,27000,Debt Consolidation,3.03,26000,72
+649,49000,Vehicle for Business Use,7.29,41000,60
+818,11000,Startup Capital,2.75,10000,24
+647,70000,Education Fees,8.49,63000,60
+838,50000,Education Fees,3.5,48000,48
+717,47000,Training and Development,4.18,45000,12
+849,77000,Green Initiatives,2.98,62000,24
+635,32000,Home Renovation,8.07,28000,72
+768,38000,Equipment Purchase,2.88,37000,24
+665,62000,Agriculture Expenses,5.54,54000,60
+842,26000,Inventory Purchase,3.42,20000,24
+804,54000,Social Enterprise,3.71,48000,24
+745,85000,Utility Payments,5.45,73000,36
+767,51000,Marketing and Advertising,3.47,43000,24
+743,77000,Healthcare Expenses,4.31,67000,48
+681,65000,Working Capital,5.67,57000,36
+638,50000,Marketing and Advertising,8.13,43000,36
+652,99000,Education Fees,6.74,93000,48
+761,91000,Childcare Expenses,3.33,88000,72
+635,41000,Training and Development,8.39,40000,36
+758,52000,Working Capital,2.84,47000,24
+829,57000,Social Enterprise,2.88,52000,36
+729,46000,Technology Upgrade,3.97,40000,24
+620,82000,Community Projects,7.82,80000,24
+753,53000,Vehicle for Business Use,3.57,47000,60
+693,18000,Travel Costs,6.34,14000,72
+811,91000,Vehicle for Business Use,3.89,89000,72
+751,89000,Home Renovation,2.51,78000,72
+671,30000,Wedding Expenses,6.02,29000,72
+809,34000,Education Fees,3.13,27000,72
+744,86000,Technology Upgrade,4.64,70000,12
+712,50000,Childcare Expenses,4.32,46000,72
+847,45000,Childcare Expenses,2.7,37000,60
+802,87000,Technology Upgrade,3.71,86000,12
+760,6000,Debt Consolidation,3.71,5000,72
+618,57000,Startup Capital,8.14,50000,24
+606,81000,Education Fees,7.86,76000,72
+640,78000,Community Projects,8.07,71000,36
+747,90000,Marketing and Advertising,4.48,76000,12
+810,68000,Technology Upgrade,3.48,60000,36
+713,19000,Home Renovation,4.1,16000,60
+728,67000,Education Fees,4.86,56000,60
+777,59000,Inventory Purchase,3.62,51000,36
+667,9000,Agriculture Expenses,6.72,7000,72
+625,42000,Green Initiatives,8.94,36000,24
+680,61000,Utility Payments,6.04,51000,24
+663,90000,Wedding Expenses,5.69,86000,72
+701,30000,Working Capital,5.5,25000,36
+822,79000,Emergency Personal Funds,3.01,78000,48
+633,94000,Social Enterprise,7.4,92000,36
+844,88000,Wedding Expenses,3.6,74000,60
+661,35000,Training and Development,6.16,28000,36
+714,51000,Inventory Purchase,4.85,43000,12
+663,81000,Green Initiatives,5.93,73000,36
+665,25000,Vehicle for Business Use,6.37,20000,48
+602,56000,Training and Development,7.05,54000,36
+610,99000,Vehicle for Business Use,8.41,92000,72
+719,73000,Training and Development,4.4,59000,12
+628,18000,Utility Payments,8.6,15000,12
+818,54000,Startup Capital,3.56,50000,36
+697,23000,Agriculture Expenses,6.56,21000,60
+657,61000,Equipment Purchase,6.67,54000,36
+713,81000,Green Initiatives,4.3,78000,12
+736,81000,Business Expansion,5.44,67000,60
+706,87000,Childcare Expenses,5.24,86000,72
+625,5000,Education Fees,8.27,4000,48
+770,68000,Inventory Purchase,3.41,55000,36
+673,67000,Training and Development,6.23,66000,12
+679,70000,Healthcare Expenses,6.1,57000,72
+798,70000,Education Fees,3.42,64000,72
+804,71000,Home Renovation,2.83,67000,48
+726,95000,Community Projects,4.66,92000,36
+802,15000,Vehicle for Business Use,3.88,13000,72
+681,82000,Technology Upgrade,6.42,77000,12
+661,59000,Travel Costs,6.82,51000,60
+763,70000,Agriculture Expenses,3.16,57000,72
+655,94000,Healthcare Expenses,5.93,91000,60
+643,49000,Startup Capital,7.6,46000,24
+846,23000,Travel Costs,3.6,21000,48
+832,37000,Social Enterprise,2.58,33000,24
+749,19000,Marketing and Advertising,4.88,17000,12
+755,19000,Social Enterprise,3.77,18000,24
+665,19000,Marketing and Advertising,6.85,16000,12
+620,96000,Training and Development,8.94,95000,36
+787,80000,Vehicle for Business Use,3.85,74000,60
+758,99000,Green Initiatives,3.18,91000,36
+701,85000,Home Renovation,5.04,84000,48
+739,70000,Startup Capital,5.32,62000,12
+616,85000,Emergency Business Funds,8.32,83000,12
+815,57000,Education Fees,3.43,48000,72
+752,83000,Travel Costs,3.06,80000,60
+627,93000,Equipment Purchase,8.56,76000,12
+815,79000,Childcare Expenses,2.69,78000,60
+812,10000,Wedding Expenses,3.73,8000,60
+668,49000,Healthcare Expenses,6.75,48000,48
+805,30000,Healthcare Expenses,2.67,26000,48
+624,54000,Social Enterprise,7.09,44000,24
+698,16000,Training and Development,5.49,15000,24
+624,41000,Business Expansion,7.74,37000,60
+667,73000,Green Initiatives,5.83,64000,36
+734,83000,Emergency Personal Funds,5.26,82000,60
+649,20000,Startup Capital,7.7,18000,24
+752,7000,Training and Development,3.22,6000,36
+646,94000,Training and Development,8.53,83000,12
+650,6000,Healthcare Expenses,6.05,5000,72
+818,18000,Utility Payments,3.36,16000,36
+773,68000,Business Expansion,3.03,59000,60
+635,16000,Education Fees,8.75,14000,72
+630,46000,Education Fees,7.7,39000,72
+739,63000,Training and Development,5.24,59000,12
+658,93000,Business Expansion,6.42,79000,60
+613,70000,Vehicle for Business Use,8.9,66000,60
+842,91000,Healthcare Expenses,3.03,84000,72
+683,60000,Training and Development,6.19,48000,24
+676,51000,Community Projects,5.68,46000,24
+832,80000,Startup Capital,3.8,72000,24
+767,99000,Utility Payments,3.13,84000,24
+725,21000,Debt Consolidation,4.06,17000,60
+707,94000,Community Projects,4.9,75000,12
+695,43000,Social Enterprise,5.84,38000,24
+718,87000,Utility Payments,5.18,80000,12
+630,9000,Emergency Business Funds,7.68,7000,36
+715,27000,Emergency Personal Funds,4.47,24000,60
+746,69000,Emergency Personal Funds,5.45,68000,72
+608,42000,Green Initiatives,8.13,36000,36
+771,95000,Utility Payments,3.12,87000,36
+708,58000,Training and Development,4.2,49000,36
+819,98000,Community Projects,3.38,87000,36
+730,52000,Marketing and Advertising,5.02,46000,24
+625,89000,Wedding Expenses,7.33,71000,72
+718,97000,Education Fees,4.52,85000,48
+641,62000,Healthcare Expenses,8.07,56000,48
+620,42000,Debt Consolidation,8.04,35000,60
+752,43000,Startup Capital,2.93,38000,24
+783,6000,Home Renovation,2.48,5000,48
+660,53000,Training and Development,6.06,47000,36
+698,72000,Wedding Expenses,6.5,68000,48
+779,63000,Equipment Purchase,3.84,53000,12
+631,88000,Training and Development,8.67,72000,12
+723,61000,Agriculture Expenses,4.38,59000,60
+820,43000,Inventory Purchase,3.39,40000,24
+788,50000,Social Enterprise,3.8,42000,12
+805,21000,Equipment Purchase,3.68,17000,24
+806,37000,Startup Capital,3.91,31000,24
+613,99000,Wedding Expenses,6.98,91000,48
+810,70000,Startup Capital,3.95,69000,24
+683,45000,Wedding Expenses,5.76,39000,60
+609,74000,Equipment Purchase,8.13,73000,12
+805,17000,Marketing and Advertising,3.26,16000,36
+693,74000,Emergency Personal Funds,5.81,66000,60
+760,91000,Wedding Expenses,3.89,83000,48
+675,5000,Training and Development,6.4,4000,12
+709,50000,Marketing and Advertising,4.84,41000,36
+840,86000,Emergency Business Funds,2.58,82000,36
+643,91000,Healthcare Expenses,8.8,85000,48
+686,94000,Equipment Purchase,5.88,80000,24
+822,5000,Training and Development,3.8,4000,12
+842,85000,Vehicle for Business Use,3.89,76000,72
+844,88000,Wedding Expenses,3.46,85000,60
+661,68000,Marketing and Advertising,6.13,55000,36
+638,83000,Emergency Personal Funds,8.77,68000,48
+645,26000,Travel Costs,7.88,23000,72
+730,12000,Community Projects,5.08,11000,36
+737,76000,Emergency Personal Funds,4.01,68000,48
+830,67000,Working Capital,3.74,62000,24
+653,98000,Technology Upgrade,6.68,95000,12
+689,66000,Startup Capital,6.05,63000,24
+726,30000,Agriculture Expenses,4.44,27000,60
+770,58000,Social Enterprise,3.83,53000,24
+671,19000,Startup Capital,6.3,17000,36
+635,79000,Emergency Business Funds,8.8,68000,12
+609,15000,Working Capital,8.15,12000,36
+604,75000,Marketing and Advertising,8.84,61000,36
+771,54000,Emergency Personal Funds,2.72,45000,72
+633,40000,Vehicle for Business Use,8.16,32000,48
+605,58000,Utility Payments,7.81,53000,12
+681,21000,Social Enterprise,6.66,16000,36
+653,95000,Agriculture Expenses,6.86,90000,48
+636,68000,Childcare Expenses,8.12,58000,60
+753,56000,Travel Costs,2.48,51000,48
+785,29000,Agriculture Expenses,3.84,25000,72
+755,23000,Training and Development,3.91,19000,12
+655,21000,Marketing and Advertising,6.41,20000,12
+827,99000,Marketing and Advertising,3.19,91000,12
+802,85000,Emergency Business Funds,2.62,84000,36
+819,22000,Wedding Expenses,2.75,19000,48
+612,45000,Emergency Personal Funds,8.13,37000,72
+710,35000,Social Enterprise,4.52,31000,24
+680,10000,Emergency Business Funds,5.85,9000,12
+785,5000,Vehicle for Business Use,2.66,4000,48
+667,53000,Debt Consolidation,6.03,52000,48
+715,87000,Community Projects,3.97,86000,36
+605,63000,Social Enterprise,7.7,51000,36
+734,10000,Inventory Purchase,3.98,9000,36
+716,59000,Community Projects,4.84,57000,36
+683,59000,Travel Costs,6.81,55000,48
+685,18000,Training and Development,6.18,16000,36
+621,43000,Working Capital,8.25,38000,12
+666,60000,Equipment Purchase,5.76,53000,36
+757,88000,Agriculture Expenses,3.19,79000,48
+613,74000,Utility Payments,8.82,67000,36
+603,54000,Healthcare Expenses,8.55,43000,60
+645,13000,Community Projects,7.19,11000,36
+676,35000,Startup Capital,5.74,30000,24
+667,56000,Debt Consolidation,6.6,50000,48
+601,43000,Training and Development,8.6,37000,12
+706,34000,Marketing and Advertising,4.11,33000,36
+631,66000,Childcare Expenses,8.35,65000,72
+813,79000,Vehicle for Business Use,2.82,78000,72
+619,12000,Emergency Business Funds,8.1,11000,36
+747,42000,Green Initiatives,3.97,36000,36
+660,34000,Marketing and Advertising,6.53,31000,36
+748,74000,Emergency Business Funds,5.4,67000,24
+718,69000,Utility Payments,4.71,65000,36
+633,67000,Healthcare Expenses,8.6,62000,60
+680,69000,Startup Capital,6.57,61000,24
+726,85000,Marketing and Advertising,4.28,77000,36
+815,11000,Social Enterprise,3.62,9000,36
+841,91000,Agriculture Expenses,3.93,78000,48
+678,88000,Social Enterprise,6.94,86000,36
+621,23000,Healthcare Expenses,7.85,19000,60
+612,34000,Training and Development,8.25,27000,36
+685,27000,Vehicle for Business Use,5.96,26000,72
+700,41000,Community Projects,4.47,34000,24
+777,94000,Vehicle for Business Use,2.96,84000,60
+665,45000,Social Enterprise,5.91,43000,12
+840,9000,Social Enterprise,3.34,8000,12
+841,98000,Education Fees,3.3,91000,48
+651,11000,Emergency Personal Funds,5.79,10000,60
+693,5000,Social Enterprise,6.5,4000,36
+771,56000,Wedding Expenses,2.65,54000,60
+664,30000,Home Renovation,6.85,26000,48
+809,39000,Equipment Purchase,2.92,33000,36
+602,72000,Community Projects,6.96,66000,12
+604,91000,Technology Upgrade,8.25,90000,24
+752,97000,Inventory Purchase,2.54,79000,36
+823,41000,Inventory Purchase,2.83,38000,12
+673,63000,Childcare Expenses,5.58,50000,48
+830,77000,Home Renovation,2.73,71000,48
+735,77000,Inventory Purchase,4.59,67000,24
+803,21000,Agriculture Expenses,3.18,19000,48
+761,6000,Debt Consolidation,3.67,5000,72
+654,38000,Emergency Personal Funds,5.66,37000,60
+632,79000,Technology Upgrade,7.61,64000,12
+768,89000,Business Expansion,2.63,83000,72
+727,84000,Inventory Purchase,5.28,81000,24
+796,74000,Childcare Expenses,3.9,72000,48
+644,45000,Debt Consolidation,8.19,41000,48
+731,49000,Startup Capital,4.79,41000,36
+697,18000,Agriculture Expenses,6.07,14000,72
+603,49000,Travel Costs,8.49,39000,72
+635,70000,Emergency Business Funds,7.01,66000,36
+790,69000,Social Enterprise,3.87,66000,36
+630,62000,Childcare Expenses,8.63,56000,72
+624,55000,Childcare Expenses,8.06,53000,72
+738,63000,Equipment Purchase,4.23,53000,24
+701,43000,Vehicle for Business Use,4.87,37000,72
+847,25000,Equipment Purchase,3.32,21000,12
+827,62000,Home Renovation,3.21,56000,48
+802,48000,Healthcare Expenses,2.84,38000,60
+690,57000,Home Renovation,5.72,51000,48
+789,43000,Business Expansion,2.9,42000,60
+624,61000,Equipment Purchase,8.17,58000,36
+647,28000,Education Fees,7.51,24000,60
+644,86000,Agriculture Expenses,8.55,78000,60
+651,92000,Social Enterprise,5.8,81000,24
+742,59000,Vehicle for Business Use,4.24,57000,60
+646,59000,Emergency Business Funds,7.68,57000,36
+664,99000,Vehicle for Business Use,6.77,81000,60
+812,32000,Social Enterprise,2.57,26000,36
+695,45000,Social Enterprise,6.75,36000,24
+622,70000,Childcare Expenses,7.79,64000,60
+739,38000,Home Renovation,5.23,37000,60
+798,47000,Business Expansion,3.34,40000,72
+741,53000,Education Fees,4.88,46000,72
+610,72000,Debt Consolidation,7.08,69000,72
+698,81000,Community Projects,5.57,67000,36
+632,87000,Wedding Expenses,7.06,76000,48
+826,72000,Home Renovation,3.91,70000,60
+605,94000,Community Projects,7.15,87000,12
+697,77000,Business Expansion,6.28,64000,60
+762,17000,Education Fees,2.89,15000,48
+757,93000,Emergency Business Funds,2.99,85000,12
+733,60000,Green Initiatives,4.72,51000,12
+756,96000,Home Renovation,2.81,88000,48
+604,67000,Working Capital,7.66,59000,24
+788,17000,Green Initiatives,3.08,14000,24
+815,25000,Green Initiatives,2.81,20000,24
+613,28000,Debt Consolidation,8.56,23000,48
+663,92000,Marketing and Advertising,6.14,90000,24
+679,62000,Debt Consolidation,6.64,52000,60
+624,15000,Vehicle for Business Use,8.28,12000,60
+812,64000,Equipment Purchase,3.62,53000,36
+774,82000,Community Projects,2.87,70000,24
+766,29000,Startup Capital,3.0,27000,12
+656,62000,Green Initiatives,5.53,54000,24
+731,81000,Marketing and Advertising,5.0,73000,24
+720,67000,Community Projects,4.21,54000,24
+728,34000,Technology Upgrade,4.98,29000,36
+663,57000,Agriculture Expenses,6.84,56000,72
+675,32000,Agriculture Expenses,6.4,30000,72
+676,13000,Emergency Personal Funds,6.94,12000,72
+697,20000,Agriculture Expenses,5.6,19000,60
+813,55000,Marketing and Advertising,3.84,48000,24
+847,100000,Training and Development,3.93,89000,36
+778,51000,Utility Payments,3.68,45000,24
+796,66000,Training and Development,2.92,64000,24
+668,16000,Travel Costs,6.04,13000,72
+645,78000,Business Expansion,8.84,67000,60
+694,85000,Healthcare Expenses,6.87,74000,48
+778,98000,Emergency Business Funds,3.95,81000,12
+605,8000,Vehicle for Business Use,8.93,7000,72
+826,66000,Marketing and Advertising,2.54,59000,12
+704,31000,Inventory Purchase,4.92,30000,24
+761,10000,Home Renovation,3.25,9000,72
+683,69000,Travel Costs,5.58,60000,60
+739,11000,Technology Upgrade,4.81,9000,24
+708,58000,Utility Payments,3.99,56000,24
+771,21000,Utility Payments,2.77,19000,24
+827,46000,Working Capital,2.91,42000,12
+735,38000,Utility Payments,4.3,33000,24
+688,99000,Working Capital,6.71,90000,24
+830,52000,Working Capital,3.27,50000,36
+662,17000,Equipment Purchase,5.81,15000,24
+750,29000,Agriculture Expenses,3.91,25000,60
+605,14000,Emergency Personal Funds,7.99,13000,60
+607,77000,Green Initiatives,8.68,69000,24
+608,27000,Marketing and Advertising,7.05,26000,36
+647,77000,Agriculture Expenses,7.26,63000,72
+687,100000,Healthcare Expenses,6.46,81000,48
+653,55000,Equipment Purchase,6.35,49000,24
+673,34000,Startup Capital,6.8,28000,12
+797,78000,Travel Costs,3.29,76000,60
+782,7000,Marketing and Advertising,3.28,6000,12
+832,78000,Working Capital,3.77,74000,36
+644,25000,Startup Capital,7.62,21000,12
+715,32000,Business Expansion,4.7,25000,72
+749,18000,Green Initiatives,4.26,14000,36
+693,96000,Debt Consolidation,6.61,88000,72
+814,69000,Community Projects,3.76,62000,12
+603,79000,Startup Capital,8.58,78000,36
+694,14000,Social Enterprise,6.06,12000,12
+605,20000,Travel Costs,8.78,19000,60
+625,13000,Startup Capital,8.45,10000,24
+706,53000,Startup Capital,4.05,48000,12
+772,65000,Vehicle for Business Use,2.93,61000,72
+704,31000,Marketing and Advertising,4.44,30000,12
+847,69000,Community Projects,3.56,66000,24
+805,87000,Education Fees,2.46,86000,72
+609,45000,Green Initiatives,8.13,36000,24
+804,63000,Debt Consolidation,3.7,55000,72
+732,37000,Education Fees,5.31,33000,72
+787,70000,Startup Capital,2.8,59000,12
+646,99000,Marketing and Advertising,7.22,84000,36
+771,96000,Emergency Personal Funds,3.71,79000,72
+669,53000,Debt Consolidation,5.98,48000,48
+630,41000,Emergency Business Funds,7.61,33000,24
+681,20000,Marketing and Advertising,6.34,19000,12
+801,21000,Wedding Expenses,3.12,18000,72
+718,37000,Debt Consolidation,5.16,34000,72
+836,61000,Training and Development,2.86,59000,24
+610,10000,Marketing and Advertising,8.19,9000,12
+843,72000,Inventory Purchase,3.11,66000,12
+652,19000,Healthcare Expenses,6.28,18000,60
+630,47000,Training and Development,7.23,38000,24
+806,36000,Equipment Purchase,3.24,32000,36
+699,9000,Education Fees,6.77,8000,48
+669,83000,Community Projects,6.41,68000,24
+667,45000,Equipment Purchase,6.33,37000,12
+846,74000,Social Enterprise,3.41,62000,36
+800,50000,Technology Upgrade,2.66,43000,24
+805,19000,Social Enterprise,3.2,17000,12
+839,24000,Education Fees,2.7,23000,60
+721,34000,Debt Consolidation,4.37,30000,60
+819,75000,Equipment Purchase,3.54,63000,12
+718,20000,Inventory Purchase,5.02,16000,36
+707,100000,Wedding Expenses,4.8,97000,48
+642,22000,Green Initiatives,7.25,19000,36
+801,46000,Debt Consolidation,2.61,41000,48
+752,5000,Wedding Expenses,3.26,4000,72
+713,66000,Training and Development,4.12,59000,24
+653,81000,Green Initiatives,6.25,72000,24
+697,78000,Travel Costs,6.4,65000,72
+817,90000,Social Enterprise,2.92,84000,12
+710,100000,Childcare Expenses,4.83,92000,60
+702,36000,Travel Costs,4.09,31000,48
+825,37000,Equipment Purchase,3.9,31000,36
+766,86000,Home Renovation,2.58,75000,48
+709,51000,Healthcare Expenses,4.65,48000,72
+658,73000,Healthcare Expenses,6.01,61000,60
+701,92000,Emergency Business Funds,5.23,83000,24
+710,52000,Utility Payments,5.01,51000,36
+747,57000,Debt Consolidation,5.05,56000,72
+769,42000,Social Enterprise,3.22,41000,12
+807,58000,Startup Capital,3.81,53000,24
+783,22000,Childcare Expenses,2.74,21000,72
+726,39000,Home Renovation,4.03,35000,48
+611,60000,Healthcare Expenses,7.51,56000,60
+774,54000,Emergency Personal Funds,2.8,53000,72
+806,92000,Green Initiatives,2.94,86000,12
+682,64000,Startup Capital,5.83,52000,12
+706,59000,Training and Development,5.11,57000,24
+643,79000,Vehicle for Business Use,7.12,73000,48
+600,82000,Childcare Expenses,8.45,73000,48
+807,46000,Agriculture Expenses,3.31,42000,48
+748,71000,Training and Development,4.42,61000,12
+821,38000,Vehicle for Business Use,3.39,32000,60
+656,8000,Travel Costs,5.49,7000,48
+675,19000,Agriculture Expenses,6.71,15000,48
+707,18000,Technology Upgrade,4.64,15000,36
+677,76000,Utility Payments,5.76,65000,12
+654,97000,Agriculture Expenses,6.62,90000,48
+604,27000,Utility Payments,7.21,24000,24
+790,50000,Technology Upgrade,2.58,47000,12
+805,100000,Childcare Expenses,2.54,90000,72
+799,41000,Childcare Expenses,2.61,34000,60
+714,7000,Emergency Personal Funds,5.07,5000,48
+703,64000,Inventory Purchase,5.06,61000,24
+789,29000,Emergency Business Funds,2.65,23000,24
+818,81000,Wedding Expenses,2.62,72000,60
+613,84000,Childcare Expenses,7.51,82000,60
+727,44000,Business Expansion,5.08,37000,72
+830,61000,Home Renovation,2.46,60000,48
+797,96000,Technology Upgrade,2.65,83000,36
+642,86000,Agriculture Expenses,8.35,80000,60
+823,14000,Childcare Expenses,2.63,11000,48
+637,13000,Travel Costs,8.4,10000,48
+778,11000,Agriculture Expenses,2.61,10000,60
+602,48000,Emergency Business Funds,8.27,43000,24
+680,9000,Agriculture Expenses,6.04,7000,60
+663,28000,Green Initiatives,6.54,26000,12
+634,64000,Wedding Expenses,8.24,62000,48
+832,22000,Education Fees,3.01,21000,72
+741,65000,Healthcare Expenses,4.27,61000,60
+837,8000,Startup Capital,3.8,7000,12
+846,13000,Training and Development,2.54,12000,36
+792,84000,Startup Capital,3.82,77000,12
+812,35000,Working Capital,3.38,32000,12
+681,86000,Inventory Purchase,5.72,79000,36
+729,72000,Healthcare Expenses,5.42,69000,48
+778,34000,Wedding Expenses,2.94,32000,60
+608,65000,Community Projects,7.78,56000,36
+719,92000,Technology Upgrade,3.97,81000,24
+611,98000,Social Enterprise,8.68,82000,24
+700,79000,Training and Development,4.11,68000,12
+629,30000,Childcare Expenses,8.05,27000,72
+759,74000,Agriculture Expenses,3.09,67000,72
+703,98000,Business Expansion,4.17,81000,60
+741,55000,Marketing and Advertising,5.31,46000,36
+661,62000,Startup Capital,6.66,58000,12
+754,52000,Community Projects,2.97,50000,36
+778,5000,Vehicle for Business Use,2.79,4000,48
+737,68000,Equipment Purchase,5.19,55000,24
+647,79000,Startup Capital,6.98,69000,12
+642,52000,Childcare Expenses,7.06,50000,48
+717,80000,Inventory Purchase,4.93,70000,36
+616,76000,Working Capital,8.78,74000,12
+697,49000,Green Initiatives,6.0,44000,36
+639,92000,Social Enterprise,7.33,78000,12
+632,12000,Utility Payments,8.57,10000,24
+678,85000,Vehicle for Business Use,6.57,74000,60
+704,41000,Childcare Expenses,4.47,34000,72
+630,42000,Business Expansion,7.3,38000,60
+629,9000,Training and Development,8.86,7000,12
+850,54000,Inventory Purchase,2.55,45000,24
+652,80000,Agriculture Expenses,5.56,69000,60
+816,80000,Training and Development,3.0,68000,24
+636,98000,Green Initiatives,7.32,96000,36
+633,80000,Vehicle for Business Use,7.77,77000,60
+618,61000,Utility Payments,8.23,55000,36
+736,20000,Travel Costs,4.41,16000,48
+847,84000,Vehicle for Business Use,3.24,68000,48
+717,94000,Social Enterprise,5.23,90000,36
+732,61000,Marketing and Advertising,4.55,55000,24
+614,29000,Inventory Purchase,7.34,25000,24
+780,58000,Healthcare Expenses,2.56,53000,48
+812,8000,Debt Consolidation,3.51,7000,72
+645,81000,Business Expansion,8.06,72000,48
+756,23000,Inventory Purchase,2.93,20000,12
+730,81000,Emergency Personal Funds,5.07,66000,60
+601,30000,Travel Costs,7.33,25000,48
+845,13000,Agriculture Expenses,2.55,11000,48
+708,70000,Travel Costs,5.06,59000,72
+716,7000,Marketing and Advertising,4.38,6000,36
+606,15000,Utility Payments,7.9,14000,12
+801,53000,Social Enterprise,3.02,44000,12
+652,56000,Home Renovation,6.65,47000,72
+756,39000,Business Expansion,3.0,35000,60
+617,28000,Healthcare Expenses,7.92,26000,60
+729,59000,Childcare Expenses,4.94,49000,60
+677,18000,Startup Capital,6.54,16000,24
+604,74000,Debt Consolidation,8.85,65000,72
+795,15000,Emergency Personal Funds,3.24,12000,72
+817,83000,Working Capital,3.21,82000,12
+747,29000,Social Enterprise,5.17,28000,36
+627,92000,Community Projects,7.2,84000,24
+624,28000,Business Expansion,7.99,27000,72
+722,5000,Wedding Expenses,4.44,4000,60
+669,12000,Business Expansion,6.47,10000,60
+719,87000,Equipment Purchase,4.13,78000,12
+773,70000,Green Initiatives,3.27,56000,24
+752,82000,Healthcare Expenses,3.11,77000,72
+666,31000,Marketing and Advertising,6.61,26000,24
+678,95000,Business Expansion,6.9,90000,48
+753,12000,Marketing and Advertising,3.61,10000,36
+778,75000,Agriculture Expenses,3.36,61000,48
+828,40000,Marketing and Advertising,3.75,38000,36
+816,51000,Training and Development,3.45,48000,24
+698,56000,Technology Upgrade,6.03,55000,24
+741,58000,Business Expansion,4.85,53000,48
+780,71000,Social Enterprise,3.13,65000,24
+608,60000,Inventory Purchase,8.2,48000,24
+732,84000,Vehicle for Business Use,5.36,71000,60
+690,32000,Social Enterprise,6.33,28000,36
+677,97000,Startup Capital,6.9,89000,24
+777,14000,Vehicle for Business Use,3.19,13000,60
+630,26000,Business Expansion,8.0,24000,48
+737,17000,Agriculture Expenses,4.74,16000,60
+808,52000,Technology Upgrade,2.91,43000,36
+669,34000,Green Initiatives,5.83,30000,36
+743,50000,Education Fees,4.8,42000,60
+741,35000,Utility Payments,4.36,34000,12
+820,77000,Healthcare Expenses,3.24,69000,72
+784,62000,Home Renovation,3.91,50000,72
+724,48000,Equipment Purchase,4.42,44000,36
+842,87000,Childcare Expenses,3.76,79000,60
+653,44000,Working Capital,6.87,42000,36
+625,77000,Debt Consolidation,8.61,61000,60
