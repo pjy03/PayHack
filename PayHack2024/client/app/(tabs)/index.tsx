@@ -1,6 +1,7 @@
 import { useNavigation } from "@react-navigation/native";
 import { Card } from "@rneui/themed";
-import React, { useEffect, useState } from "react";
+import axios from "axios";
+import React, { useState } from "react";
 import {
   Alert,
   Image,
@@ -11,12 +12,11 @@ import {
   TextInput,
   View,
 } from "react-native";
-import axios from "axios";
 import DropDownPicker from "react-native-dropdown-picker";
 import { SafeAreaProvider, SafeAreaView } from "react-native-safe-area-context";
 
 const api = axios.create({
-  baseURL: 'http://172.20.10.3:5000',
+  baseURL: "http://192.168.100.112:5000",
 });
 
 export default function HomeScreen() {
@@ -32,27 +32,25 @@ export default function HomeScreen() {
   ]);
   const [publicBankInterestRate, setPublicBankInterestRate] = useState(null);
   const [searchResults, setSearchResults] = useState([]);
-  
+
   const navigation = useNavigation();
 
   const fetchDynamicInterestRate = async () => {
-
     try {
-      const response = await api.post('/predict', {
-          loan_amnt: 35000,
-          loan_intent: "PERSONAL",
-          credit_score: 561,
-          loan_term: 36
-        })
-        console.log(response);
-        // Ensure the response is JSON
-        const data = await response.data;
-      
-        // Directly access the value
-        const predictedLoanIntRate = data.predicted_loan_int_rate;
-        setPublicBankInterestRate(predictedLoanIntRate);
-      }
-    catch (error) {
+      const response = await api.post("/predict", {
+        loan_amnt: 35000,
+        loan_intent: "PERSONAL",
+        credit_score: 561,
+        loan_term: 36,
+      });
+      console.log(response);
+      // Ensure the response is JSON
+      const data = await response.data;
+
+      // Directly access the value
+      const predictedLoanIntRate = data.predicted_loan_int_rate;
+      setPublicBankInterestRate(predictedLoanIntRate);
+    } catch (error) {
       console.error("Error fetching interest rate:", error);
       Alert.alert("Error", "Unable to fetch interest rate. Please try again.");
     }
@@ -68,7 +66,11 @@ export default function HomeScreen() {
     // Simulate fetching search results (Replace with actual API call)
     const results = [
       { id: 1, title: "Low Interest Loan", description: "From 4.5% APR" },
-      { id: 2, title: "Quick Approval Loan", description: "Approval in 24 hours" },
+      {
+        id: 2,
+        title: "Quick Approval Loan",
+        description: "Approval in 24 hours",
+      },
     ];
     setSearchResults(results); // Store the search results
   };
@@ -154,25 +156,28 @@ export default function HomeScreen() {
                 ))}
               </View>
               <Card containerStyle={styles.card}>
-            <Card.Title style={styles.cardTitle}>Public Bank</Card.Title>
-            <Card.Divider />
-            <Text style={styles.cardText}>Loan Value: {text}</Text>
-            <Text style={styles.cardText}>
-              Interest Rate: {publicBankInterestRate}
-            </Text>
-            <Pressable
-              style={({ pressed }) => [
-                styles.applyButton,
-                pressed && { opacity: 0.8 },
-              ]}
-              onPress={() => navigation.navigate('bank', { interestRate: publicBankInterestRate })}
-            >
-              <Text style={styles.buttonLabel}>Apply</Text>
-            </Pressable>
-          </Card>
+                <Card.Title style={styles.cardTitle}>Public Bank</Card.Title>
+                <Card.Divider />
+                <Text style={styles.cardText}>Loan Value: {text}</Text>
+                <Text style={styles.cardText}>
+                  Interest Rate: {publicBankInterestRate}
+                </Text>
+                <Pressable
+                  style={({ pressed }) => [
+                    styles.applyButton,
+                    pressed && { opacity: 0.8 },
+                  ]}
+                  onPress={() =>
+                    navigation.navigate("bank", {
+                      interestRate: publicBankInterestRate,
+                    })
+                  }
+                >
+                  <Text style={styles.buttonLabel}>Apply</Text>
+                </Pressable>
+              </Card>
             </View>
           )}
-
         </ScrollView>
       </SafeAreaView>
     </SafeAreaProvider>

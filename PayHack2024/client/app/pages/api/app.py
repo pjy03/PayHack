@@ -1,16 +1,21 @@
-from flask import Flask, request, jsonify
-import joblib
-import pandas as pd
-import numpy as np
-from flask_cors import CORS
+import os
 
+import joblib
+import numpy as np
+import pandas as pd
+from flask import Flask, jsonify, request
+from flask_cors import CORS
 
 # Initialize Flask app
 app = Flask(__name__)
 CORS(app)
 
+# Dynamically determine the location of the model file
+base_dir = os.path.dirname(os.path.abspath(__file__))  # Get the directory of the current script
+model_path = os.path.join(base_dir, 'svm_chain_model.pkl')  # Combine with the model filename
+
 # Load the trained model
-model = joblib.load('C:\\Users\\Pu Jun Yu\\Desktop\\PayHack\\PayHack2024\\client\\app\\pages\\api\\svm_chain_model.pkl')
+model = joblib.load(model_path)
 
 # Function to predict loan_int_rate
 @app.route('/predict', methods=['POST'])
@@ -37,4 +42,4 @@ def predict_loan_int_rate():
 
 # Start the Flask app
 if __name__ == '__main__':
-    app.run(debug=True,host='0.0.0.0')
+    app.run(debug=True, host='0.0.0.0')
