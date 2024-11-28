@@ -11,9 +11,13 @@ import {
   TextInput,
   View,
 } from "react-native";
-import axios from "react-native-axios";
+import axios from "axios";
 import DropDownPicker from "react-native-dropdown-picker";
 import { SafeAreaProvider, SafeAreaView } from "react-native-safe-area-context";
+
+const api = axios.create({
+  baseURL: 'http://172.20.10.3:5000',
+});
 
 export default function HomeScreen() {
   const [text, onChangeText] = useState("");
@@ -32,31 +36,26 @@ export default function HomeScreen() {
   const navigation = useNavigation();
 
   const fetchDynamicInterestRate = async () => {
+
     try {
-      const response = await fetch('http://127.0.0.1:5000/predict', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify({
+      const response = await api.post('/predict', {
           loan_amnt: 35000,
           loan_intent: "PERSONAL",
           credit_score: 561,
           loan_term: 36
-        }),
-      });
-    
-      // Ensure the response is JSON
-      const data = await response.json();
-    
-      // Directly access the value
-      const predictedLoanIntRate = data.predicted_loan_int_rate;
-      setPublicBankInterestRate(predictedLoanIntRate);
-    } catch (error) {
+        })
+        console.log(response);
+        // Ensure the response is JSON
+        const data = await response.data;
+      
+        // Directly access the value
+        const predictedLoanIntRate = data.predicted_loan_int_rate;
+        setPublicBankInterestRate(predictedLoanIntRate);
+      }
+    catch (error) {
       console.error("Error fetching interest rate:", error);
       Alert.alert("Error", "Unable to fetch interest rate. Please try again.");
     }
-    
   };
 
   const handleSearch = () => {
