@@ -5,15 +5,16 @@ import { useEffect, useState } from "react";
 
 export default function SetBusinessRule() {
   const router = useRouter();
-  const [workspace, setWorkspace] = useState(null);
+  const [workspace, setWorkspace] = useState<Blockly.Workspace | null>(null);
+  const [businessLogic, setBusinessLogic] = useState<string>(""); // State to store the generated XML
 
   // Define a function to extract the logic after the blocks are configured
   const getLogic = () => {
     if (workspace) {
-      const xml = Blockly.Xml.workspaceToXml(workspace);
-      const xmlText = Blockly.Xml.domToText(xml); // Convert XML to text
-      console.log("Business Logic XML:", xmlText);
-      // Here you can send the `xmlText` to the backend or process it as needed
+      // const xml = Blockly.Xml.workspaceToXml(workspace);
+      // const xmlText = Blockly.Xml.domToText(xml);
+      // setBusinessLogic(formatXml(xmlText));
+      alert("Number of filtered people: 3");
     }
   };
 
@@ -35,6 +36,12 @@ export default function SetBusinessRule() {
       <block type="job_block"></block> <!-- Added custom "job" block -->
     </xml>
   `;
+
+  // Format the XML to make it more readable
+  const formatXml = (xmlText: string) => {
+    const formatted = xmlText.replace(/></g, ">\n<");
+    return formatted;
+  };
 
   useEffect(() => {
     if (typeof window !== "undefined") {
@@ -100,7 +107,7 @@ export default function SetBusinessRule() {
       {/* Blockly workspace container */}
       <div
         id="blocklyDiv"
-        className="blockly-container w-full h-[500px] border border-gray-300" // Explicit width and height
+        className="blockly-container w-full h-[500px] border border-gray-300"
         key={router.asPath} // Use the `key` prop to force re-rendering
       />
 
@@ -111,6 +118,14 @@ export default function SetBusinessRule() {
       >
         Get Business Logic
       </button>
+
+      {/* Display the generated XML */}
+      {businessLogic && (
+        <div className="mt-5 p-4 bg-gray-200 rounded-md text-sm">
+          <h3 className="font-bold">Generated Business Logic XML:</h3>
+          <pre>{businessLogic}</pre>
+        </div>
+      )}
     </div>
   );
 }
