@@ -6,7 +6,12 @@ import { useState } from "react";
 export default function SetParameters() {
   const router = useRouter();
   const totalWeightage = 100; // Representing 100% as a whole number
-  const defaultValue = (totalWeightage / 9).toFixed(2); // Default value for each parameter
+  const defaultValue = (totalWeightage / 9).toFixed(2);
+
+  const handleSubmit = () => {
+    alert("You have set the parameters.");
+    router.push("/");
+  };
 
   const [parameters, setParameters] = useState(
     Array.from({ length: 9 }, (_, index) => ({
@@ -159,6 +164,7 @@ export default function SetParameters() {
             parameters.some((param) => !param.isValid) ||
             calculateRemainingWeightage() !== "0.00"
           }
+          onClick={handleSubmit}
         >
           Submit Parameters
         </button>

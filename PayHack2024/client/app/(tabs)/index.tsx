@@ -146,15 +146,15 @@ export default function HomeScreen() {
           {/* Featured Loans Section */}
           {searchResults.length > 1 && ( // Conditionally render if results length > 1
             <View>
-              <Text style={styles.sectionTitle}>Featured Loans</Text>
-              <View style={styles.itemsRow}>
+              {/* <Text style={styles.sectionTitle}>Featured Loans</Text> */}
+              {/* <View style={styles.itemsRow}>
                 {searchResults.map((loan) => (
                   <View key={loan.id} style={styles.itemCard}>
                     <Text style={styles.itemTitle}>{loan.title}</Text>
                     <Text style={styles.itemPrice}>{loan.description}</Text>
                   </View>
                 ))}
-              </View>
+              </View> */}
               <Card containerStyle={styles.card}>
                 <Card.Title style={styles.cardTitle}>Public Bank</Card.Title>
                 <Card.Divider />

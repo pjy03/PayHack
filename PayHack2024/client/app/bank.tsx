@@ -27,6 +27,7 @@ export default function BankScreen() {
   const handleProceed = () => {
     console.log("Your loan application has been submitted successfully.");
     Alert.alert("Your loan application has been submitted successfully.");
+    route;
   };
 
   return (
