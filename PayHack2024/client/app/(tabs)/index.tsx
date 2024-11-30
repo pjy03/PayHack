@@ -25,8 +25,8 @@ export default function HomeScreen() {
   const [selectedCategory, setSelectedCategory] = useState(null);
   const [open, setOpen] = useState(false);
   const [categories, setCategories] = useState([
-    { label: "Low Interest Loans", value: "low-interest" },
-    { label: "Quick Approval Loans", value: "quick-approval" },
+    // { label: "Low Interest Loans", value: "low-interest" },
+    // { label: "Quick Approval Loans", value: "quick-approval" },
     { label: "Educational Loans", value: "education" },
     { label: "Business Loans", value: "business" },
   ]);

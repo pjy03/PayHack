@@ -2,7 +2,14 @@ import { useRoute } from "@react-navigation/native";
 import { CheckBox } from "@rneui/themed";
 import { useNavigation } from "expo-router";
 import React, { useEffect, useState } from "react";
-import { Alert, ScrollView, StyleSheet, Text, TouchableOpacity, View } from "react-native";
+import {
+  Alert,
+  ScrollView,
+  StyleSheet,
+  Text,
+  TouchableOpacity,
+  View,
+} from "react-native";
 
 export default function BankScreen() {
   const navigation = useNavigation();
@@ -19,7 +26,7 @@ export default function BankScreen() {
 
   const handleProceed = () => {
     console.log("Your loan application has been submitted successfully.");
-      Alert.alert("Your loan application has been submitted successfully.");
+    Alert.alert("Your loan application has been submitted successfully.");
   };
 
   return (
@@ -33,15 +40,31 @@ export default function BankScreen() {
         <Text style={styles.title}>Loan Terms and Conditions</Text>
 
         <Text style={styles.termsText}>
-          Please read the following terms and conditions carefully before applying for the loan:
+          Please read the following terms and conditions carefully before
+          applying for the loan:
         </Text>
 
         <View style={styles.termsList}>
-          <Text style={styles.termsText}>1. You agree to repay the loan within the agreed period, along with applicable interest.</Text>
-          <Text style={styles.termsText}>2. The loan amount, interest rate, and repayment schedule will be provided before the loan agreement.</Text>
-          <Text style={styles.termsText}>3. Failure to repay the loan on time will result in additional charges and may affect your credit score.</Text>
-          <Text style={styles.termsText}>4. The lender reserves the right to take legal action in case of default.</Text>
-          <Text style={styles.termsText}>5. By proceeding with the loan application, you agree to the privacy policy and terms of service of the lender.</Text>
+          <Text style={styles.termsText}>
+            1. You agree to repay the loan within the agreed period, along with
+            applicable interest.
+          </Text>
+          <Text style={styles.termsText}>
+            2. The loan amount, interest rate, and repayment schedule will be
+            provided before the loan agreement.
+          </Text>
+          <Text style={styles.termsText}>
+            3. Failure to repay the loan on time will result in additional
+            charges and may affect your credit score.
+          </Text>
+          <Text style={styles.termsText}>
+            4. The lender reserves the right to take legal action in case of
+            default.
+          </Text>
+          <Text style={styles.termsText}>
+            5. By proceeding with the loan application, you agree to the privacy
+            policy and terms of service of the lender.
+          </Text>
         </View>
 
         {/* Checkbox for agreeing to terms */}
@@ -54,7 +77,9 @@ export default function BankScreen() {
             uncheckedIcon="circle-o"
             checkedColor="#1E90FF"
           />
-          <Text style={styles.checkboxLabel}>I agree to the Terms and Conditions</Text>
+          <Text style={styles.checkboxLabel}>
+            I agree to the Terms and Conditions
+          </Text>
         </View>
 
         {/* Proceed Button */}
@@ -63,7 +88,9 @@ export default function BankScreen() {
           onPress={handleProceed}
           disabled={!agree}
         >
-          <Text style={styles.proceedButtonText}>Proceed with Loan Application</Text>
+          <Text style={styles.proceedButtonText}>
+            Proceed with Loan Application
+          </Text>
         </TouchableOpacity>
       </ScrollView>
     </View>
