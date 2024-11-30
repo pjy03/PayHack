@@ -6,7 +6,19 @@ import { useState } from "react";
 export default function SetParameters() {
   const router = useRouter();
   const totalWeightage = 100; // Representing 100% as a whole number
-  const defaultValue = (totalWeightage / 9).toFixed(2);
+  const defaultValue = (totalWeightage / 8).toFixed(2);
+
+  // Custom parameter names
+  const customParameterNames = [
+    "Banker's Credit Scoring",
+    "Transactional Behavior",
+    "Loan Repayment Records",
+    "Cash Flow Stability",
+    "Debt Obligations",
+    "Credit Utilization",
+    "Demographics and Employment",
+    "Behavioral Loan Insights",
+  ];
 
   const handleSubmit = () => {
     alert("You have set the parameters.");
@@ -14,11 +26,11 @@ export default function SetParameters() {
   };
 
   const [parameters, setParameters] = useState(
-    Array.from({ length: 9 }, (_, index) => ({
+    customParameterNames.map((name, index) => ({
       id: index + 1,
-      name: `Parameter ${index + 1}`,
-      defaultValue: defaultValue, // Initially evenly distributed
-      isValid: true, // Validation state for each parameter
+      name: name, // Use custom name here
+      defaultValue: defaultValue,
+      isValid: true,
     }))
   );
 
@@ -62,9 +74,9 @@ export default function SetParameters() {
   // Reset to default values
   const handleUseDefault = () => {
     setParameters(
-      Array.from({ length: 9 }, (_, index) => ({
+      customParameterNames.map((name, index) => ({
         id: index + 1,
-        name: `Parameter ${index + 1}`,
+        name: name,
         defaultValue: defaultValue,
         isValid: true,
       }))
@@ -82,36 +94,37 @@ export default function SetParameters() {
       </button>
 
       {/* Title */}
-      <div className="flex flex-row space-between">
-        <h1 className="text-3xl font-bold text-gray-800 mb-8">
-          Set Parameters
-        </h1>
-        <div>
-          <button
-            className="bg-blue-500 text-white py-1 px-3 ml-10 rounded-lg hover:bg-blue-600 mb-5"
-            onClick={handleUseDefault} // Handle resetting to default
-          >
-            Use Default
-          </button>
-        </div>
+      <div className="flex flex-row justify-between mb-8">
+        <h1 className="text-3xl font-bold text-gray-800">Set Parameters</h1>
+        <button
+          className="bg-blue-500 text-white py-1 px-3 rounded-lg hover:bg-blue-600"
+          onClick={handleUseDefault} // Handle resetting to default
+        >
+          Use Default
+        </button>
       </div>
 
       {/* Parameters Table */}
       <div className="bg-white shadow-md rounded-lg p-6">
-        <table className="w-full border-collapse text-left">
+        <table className="w-full border-collapse text-left table-auto">
           <thead>
             <tr>
-              <th className="border-b-2 p-4 font-semibold text-gray-700">
+              <th className="border-b-2 p-4 font-semibold text-gray-700 bg-blue-100">
                 Parameter
               </th>
-              <th className="border-b-2 p-4 font-semibold text-gray-700">
+              <th className="border-b-2 p-4 font-semibold text-gray-700 bg-blue-100">
                 Weightage (%)
               </th>
             </tr>
           </thead>
           <tbody>
-            {parameters.map((param) => (
-              <tr key={param.id} className="hover:bg-gray-50">
+            {parameters.map((param, index) => (
+              <tr
+                key={param.id}
+                className={`hover:bg-gray-50 ${
+                  index % 2 === 0 ? "bg-blue-50" : "bg-white"
+                }`}
+              >
                 <td className="p-4 text-gray-800">{param.name}</td>
                 <td className="p-4">
                   <input

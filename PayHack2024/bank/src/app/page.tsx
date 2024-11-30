@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import { useRouter } from "next/navigation";
 import { useState } from "react";
 
 export default function Home() {
@@ -9,6 +10,8 @@ export default function Home() {
     { id: 2, name: "Jane", amount: "$15,000", status: 720, approved: true },
     { id: 3, name: "Michael", amount: "$7,500", status: 680, approved: false },
   ]);
+
+  const route = useRouter();
 
   const [notification, setNotification] = useState<string | null>(null);
   const [showModal, setShowModal] = useState(false);
@@ -212,6 +215,12 @@ export default function Home() {
                     onClick={() => handleProposeInterestRate(loan.id)}
                   >
                     Propose Rate
+                  </button>
+                  <button
+                    className="bg-blue-500 text-white py-2 px-6 rounded-lg hover:bg-green-600 shadow-lg transition-all"
+                    onClick={() => route.push("/viewProfile")}
+                  >
+                    View Profile
                   </button>
                 </div>
               </div>
